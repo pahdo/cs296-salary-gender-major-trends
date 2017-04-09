@@ -1,0 +1,1372 @@
+Fall,College,Major Name,Total,Male,Female
+2005.0,KL ,Agr & Environmental Cmc & Educ ,103.0,30.0,73.0
+2005.0,KL ,Agr Engineering & Agr Science ,37.0,34.0,3.0
+2005.0,KL ,"Agribusiness, Farm & Financial ",317.0,232.0,83.0
+2005.0,KL ,Animal Sciences ,507.0,126.0,381.0
+2005.0,KL ,Consumer and Textile Marketing ,54.0,2.0,52.0
+2005.0,KL ,Crop Sciences ,94.0,69.0,24.0
+2005.0,KL ,Food Science & Human Nutrition ,394.0,99.0,295.0
+2005.0,KL ,Forestry ,1.0,1.0,0.0
+2005.0,KL ,Horticulture ,72.0,48.0,24.0
+2005.0,KL ,Human Development & Family St ,216.0,13.0,202.0
+2005.0,KL ,"Intl, Resource, Consumer Econ ",174.0,105.0,69.0
+2005.0,KL ,Natural Resrcs & Environ Sci ,196.0,122.0,74.0
+2005.0,KL ,Technical Systems Management ,92.0,86.0,6.0
+2005.0,KM ,Accountancy ,933.0,524.0,408.0
+2005.0,KM ,Business Administration ,844.0,428.0,416.0
+2005.0,KM ,Economics ,16.0,12.0,4.0
+2005.0,KM ,Finance ,803.0,571.0,231.0
+2005.0,KN ,Early Childhood Education ,58.0,2.0,56.0
+2005.0,KN ,Education General ,1.0,1.0,0.0
+2005.0,KN ,Elementary Education ,302.0,20.0,282.0
+2005.0,KN ,Special Education ,76.0,4.0,72.0
+2005.0,KP ,Aerospace Engineering ,349.0,297.0,52.0
+2005.0,KP ,Agricultural Engineering ,58.0,50.0,8.0
+2005.0,KP ,Bioengineering ,52.0,37.0,15.0
+2005.0,KP ,Civil Engineering ,493.0,393.0,100.0
+2005.0,KP ,Computer Engineering ,563.0,520.0,42.0
+2005.0,KP ,Computer Science ,650.0,589.0,59.0
+2005.0,KP ,Electrical Engineering ,855.0,748.0,107.0
+2005.0,KP ,Engineering Mechanics ,78.0,63.0,15.0
+2005.0,KP ,Engineering Physics ,101.0,87.0,14.0
+2005.0,KP ,General Engineering ,601.0,489.0,112.0
+2005.0,KP ,Industrial Engineering ,66.0,43.0,23.0
+2005.0,KP ,Materials Science & Engr ,212.0,165.0,47.0
+2005.0,KP ,Mechanical Engineering ,829.0,733.0,93.0
+2005.0,KP ,Nuclear Engineering ,95.0,84.0,11.0
+2005.0,KR ,Architectural Studies ,534.0,308.0,226.0
+2005.0,KR ,Art Education ,78.0,10.0,68.0
+2005.0,KR ,Crafts ,22.0,7.0,15.0
+2005.0,KR ,Dance ,54.0,6.0,48.0
+2005.0,KR ,Graphic Design ,75.0,21.0,54.0
+2005.0,KR ,History of Art ,22.0,3.0,19.0
+2005.0,KR ,Industrial Design ,98.0,47.0,51.0
+2005.0,KR ,Instrumental Music ,122.0,52.0,70.0
+2005.0,KR ,Landscape Architecture ,114.0,80.0,34.0
+2005.0,KR ,Music ,3.0,2.0,1.0
+2005.0,KR ,Music Composition ,9.0,8.0,1.0
+2005.0,KR ,Music Education ,201.0,82.0,119.0
+2005.0,KR ,Music History ,1.0,0.0,1.0
+2005.0,KR ,Open Studies ,20.0,15.0,5.0
+2005.0,KR ,Painting ,48.0,16.0,32.0
+2005.0,KR ,Photography ,33.0,11.0,22.0
+2005.0,KR ,Sculpture ,15.0,8.0,7.0
+2005.0,KR ,Theatre ,143.0,67.0,76.0
+2005.0,KR ,Urban Planning ,129.0,71.0,58.0
+2005.0,KR ,Voice ,19.0,3.0,16.0
+2005.0,KT ,Advertising ,235.0,59.0,176.0
+2005.0,KT ,Broadcast Journalism ,79.0,30.0,49.0
+2005.0,KT ,Media Studies ,122.0,34.0,88.0
+2005.0,KT ,News-Editorial ,125.0,48.0,77.0
+2005.0,KV ,Actuarial Science ,249.0,167.0,82.0
+2005.0,KV ,Anthropology ,144.0,49.0,95.0
+2005.0,KV ,Astronomy ,41.0,26.0,15.0
+2005.0,KV ,Biochemistry ,282.0,148.0,133.0
+2005.0,KV ,Bioengineering ,1.0,1.0,0.0
+2005.0,KV ,Biology ,41.0,20.0,21.0
+2005.0,KV ,Chemical Engineering ,294.0,187.0,106.0
+2005.0,KV ,Chemistry ,468.0,251.0,217.0
+2005.0,KV ,Classics ,26.0,12.0,14.0
+2005.0,KV ,Comparative Literature ,14.0,3.0,11.0
+2005.0,KV ,E Asian Languages & Cultures ,45.0,30.0,15.0
+2005.0,KV ,Economics ,678.0,522.0,156.0
+2005.0,KV ,English ,921.0,280.0,640.0
+2005.0,KV ,Finance ,162.0,117.0,45.0
+2005.0,KV ,French ,67.0,17.0,50.0
+2005.0,KV ,Geography ,45.0,38.0,7.0
+2005.0,KV ,Geology ,57.0,36.0,21.0
+2005.0,KV ,Germanic Lang & Lit ,23.0,13.0,10.0
+2005.0,KV ,History ,570.0,352.0,217.0
+2005.0,KV ,History of Art ,30.0,2.0,28.0
+2005.0,KV ,Humanities ,7.0,5.0,2.0
+2005.0,KV ,Individual Plans of Study ,5.0,2.0,3.0
+2005.0,KV ,Integrative Biology ,251.0,113.0,138.0
+2005.0,KV ,Interdisciplinary ,38.0,18.0,20.0
+2005.0,KV ,International Studies ,317.0,92.0,225.0
+2005.0,KV ,Italian ,7.0,1.0,6.0
+2005.0,KV ,Latin American Studies ,6.0,3.0,3.0
+2005.0,KV ,Linguistics ,43.0,20.0,23.0
+2005.0,KV ,Math & Computer Science ,128.0,117.0,10.0
+2005.0,KV ,Mathematics ,357.0,204.0,153.0
+2005.0,KV ,Molecular & Integrative Physi ,2.0,1.0,1.0
+2005.0,KV ,Molecular and Cellular Biology ,794.0,324.0,469.0
+2005.0,KV ,Music ,17.0,10.0,7.0
+2005.0,KV ,Philosophy ,97.0,74.0,23.0
+2005.0,KV ,Physics ,187.0,145.0,42.0
+2005.0,KV ,Political Science ,1015.0,618.0,394.0
+2005.0,KV ,Portuguese ,1.0,1.0,0.0
+2005.0,KV ,Psychology ,1199.0,319.0,880.0
+2005.0,KV ,Religious Studies ,29.0,17.0,12.0
+2005.0,KV ,Rhetoric ,134.0,72.0,62.0
+2005.0,KV ,Russian & E European Studies ,4.0,4.0,0.0
+2005.0,KV ,Russian Lang & Literature ,4.0,1.0,3.0
+2005.0,KV ,Sociology ,429.0,139.0,290.0
+2005.0,KV ,Spanish ,267.0,82.0,185.0
+2005.0,KV ,Speech Communication ,427.0,181.0,246.0
+2005.0,KV ,Statistics ,37.0,27.0,10.0
+2005.0,KV ,Statistics & Computer Science ,10.0,9.0,1.0
+2005.0,KV ,Teaching of French ,8.0,2.0,6.0
+2005.0,KV ,Teaching of German ,2.0,1.0,1.0
+2005.0,KV ,Teaching of Spanish ,27.0,3.0,24.0
+2005.0,KY ,Community Health ,415.0,94.0,321.0
+2005.0,KY ,Kinesiology ,600.0,241.0,359.0
+2005.0,KY ,Leisure Studies ,381.0,240.0,140.0
+2005.0,KY ,"Recreation, Sport, and Tourism ",10.0,8.0,2.0
+2005.0,KY ,Speech & Hearing Science ,229.0,9.0,220.0
+2005.0,LE ,Aviation Human Factors ,183.0,168.0,15.0
+2006.0,KL ,Agr & Consumer Economics ,250.0,154.0,96.0
+2006.0,KL ,Agr & Environmental Cmc & Educ ,98.0,24.0,74.0
+2006.0,KL ,Agr Engineering & Agr Science ,42.0,38.0,4.0
+2006.0,KL ,"Agribusiness, Farm & Financial ",208.0,158.0,49.0
+2006.0,KL ,Animal Sciences ,526.0,142.0,383.0
+2006.0,KL ,Consumer and Textile Marketing ,31.0,1.0,30.0
+2006.0,KL ,Crop Sciences ,99.0,72.0,27.0
+2006.0,KL ,Food Science & Human Nutrition ,369.0,92.0,277.0
+2006.0,KL ,Horticulture ,72.0,47.0,25.0
+2006.0,KL ,Human Development & Family St ,222.0,20.0,202.0
+2006.0,KL ,"Intl, Resource, Consumer Econ ",116.0,68.0,48.0
+2006.0,KL ,Natural Resrcs & Environ Sci ,211.0,121.0,90.0
+2006.0,KL ,Technical Systems Management ,73.0,68.0,4.0
+2006.0,KM ,Accountancy ,886.0,484.0,398.0
+2006.0,KM ,Business Administration ,646.0,309.0,337.0
+2006.0,KM ,Economics ,7.0,6.0,1.0
+2006.0,KM ,Finance ,643.0,481.0,161.0
+2006.0,KN ,Early Childhood Education ,52.0,0.0,52.0
+2006.0,KN ,Elementary Education ,299.0,18.0,280.0
+2006.0,KN ,Special Education ,69.0,6.0,63.0
+2006.0,KP ,Aero & Astro Engineering ,1.0,1.0,0.0
+2006.0,KP ,Aerospace Engineering ,368.0,319.0,49.0
+2006.0,KP ,Agricultural Engineering ,49.0,40.0,9.0
+2006.0,KP ,Bioengineering ,80.0,51.0,29.0
+2006.0,KP ,Civil Engineering ,523.0,412.0,111.0
+2006.0,KP ,Computer Engineering ,477.0,439.0,36.0
+2006.0,KP ,Computer Science ,622.0,561.0,59.0
+2006.0,KP ,Electrical Engineering ,798.0,711.0,87.0
+2006.0,KP ,Engineering Mechanics ,62.0,47.0,15.0
+2006.0,KP ,Engineering Physics ,124.0,110.0,14.0
+2006.0,KP ,General Engineering ,561.0,452.0,109.0
+2006.0,KP ,Industrial Engineering ,69.0,48.0,21.0
+2006.0,KP ,Materials Science & Engr ,230.0,174.0,56.0
+2006.0,KP ,Mechanical Engineering ,843.0,747.0,94.0
+2006.0,KP ,Nuclear Engineering ,99.0,88.0,11.0
+2006.0,KR ,Architectural Studies ,525.0,310.0,215.0
+2006.0,KR ,Art Education ,79.0,11.0,68.0
+2006.0,KR ,Crafts ,23.0,6.0,17.0
+2006.0,KR ,Dance ,56.0,5.0,51.0
+2006.0,KR ,Graphic Design ,75.0,26.0,49.0
+2006.0,KR ,History of Art ,16.0,0.0,16.0
+2006.0,KR ,Industrial Design ,100.0,54.0,46.0
+2006.0,KR ,Instrumental Music ,136.0,61.0,74.0
+2006.0,KR ,Landscape Architecture ,113.0,71.0,42.0
+2006.0,KR ,Music ,18.0,11.0,7.0
+2006.0,KR ,Music Composition ,12.0,10.0,2.0
+2006.0,KR ,Music Education ,223.0,99.0,124.0
+2006.0,KR ,Music History ,2.0,1.0,1.0
+2006.0,KR ,Open Studies ,22.0,18.0,4.0
+2006.0,KR ,Painting ,46.0,17.0,29.0
+2006.0,KR ,Photography ,32.0,13.0,19.0
+2006.0,KR ,Sculpture ,12.0,7.0,5.0
+2006.0,KR ,Theatre ,96.0,45.0,51.0
+2006.0,KR ,Urban Planning ,130.0,81.0,49.0
+2006.0,KR ,Voice ,21.0,4.0,17.0
+2006.0,KT ,Advertising ,338.0,90.0,248.0
+2006.0,KT ,Broadcast Journalism ,84.0,32.0,52.0
+2006.0,KT ,Media Studies ,128.0,44.0,84.0
+2006.0,KT ,News-Editorial ,144.0,55.0,89.0
+2006.0,KV ,Actuarial Science ,281.0,189.0,92.0
+2006.0,KV ,American Civilization ,1.0,1.0,0.0
+2006.0,KV ,Anthropology ,165.0,50.0,115.0
+2006.0,KV ,Astronomy ,37.0,23.0,14.0
+2006.0,KV ,Biochemistry ,237.0,122.0,115.0
+2006.0,KV ,Biology ,26.0,8.0,18.0
+2006.0,KV ,Cell and Structural Biology ,1.0,1.0,0.0
+2006.0,KV ,Chemical Engineering ,328.0,208.0,119.0
+2006.0,KV ,Chemistry ,540.0,291.0,248.0
+2006.0,KV ,Classics ,31.0,19.0,12.0
+2006.0,KV ,Comparative Literature ,18.0,5.0,13.0
+2006.0,KV ,E Asian Languages & Cultures ,63.0,40.0,23.0
+2006.0,KV ,Economics ,786.0,583.0,200.0
+2006.0,KV ,English ,930.0,288.0,640.0
+2006.0,KV ,Finance ,188.0,131.0,57.0
+2006.0,KV ,French ,76.0,15.0,61.0
+2006.0,KV ,Geography ,43.0,32.0,11.0
+2006.0,KV ,Geology ,58.0,37.0,21.0
+2006.0,KV ,Germanic Lang & Lit ,32.0,19.0,13.0
+2006.0,KV ,History ,565.0,349.0,215.0
+2006.0,KV ,History of Art ,32.0,4.0,28.0
+2006.0,KV ,Humanities ,8.0,3.0,5.0
+2006.0,KV ,Individual Plans of Study ,9.0,7.0,2.0
+2006.0,KV ,Integrative Biology ,301.0,140.0,161.0
+2006.0,KV ,Interdisciplinary ,39.0,20.0,19.0
+2006.0,KV ,International Studies ,356.0,102.0,254.0
+2006.0,KV ,Italian ,7.0,1.0,6.0
+2006.0,KV ,Latin American Studies ,7.0,5.0,2.0
+2006.0,KV ,Linguistics ,59.0,27.0,32.0
+2006.0,KV ,Math & Computer Science ,120.0,111.0,8.0
+2006.0,KV ,Mathematics ,368.0,198.0,170.0
+2006.0,KV ,Molecular and Cellular Biology ,943.0,435.0,506.0
+2006.0,KV ,Music ,8.0,3.0,5.0
+2006.0,KV ,Philosophy ,91.0,71.0,20.0
+2006.0,KV ,Physics ,177.0,141.0,35.0
+2006.0,KV ,Political Science ,1054.0,599.0,454.0
+2006.0,KV ,Psychology ,1264.0,346.0,917.0
+2006.0,KV ,Religious Studies ,23.0,15.0,8.0
+2006.0,KV ,Rhetoric ,109.0,51.0,58.0
+2006.0,KV ,Russian & E European Studies ,5.0,4.0,1.0
+2006.0,KV ,Russian Lang & Literature ,6.0,2.0,4.0
+2006.0,KV ,Sociology ,462.0,163.0,298.0
+2006.0,KV ,Spanish ,315.0,81.0,234.0
+2006.0,KV ,Speech Communication ,526.0,233.0,293.0
+2006.0,KV ,Statistics ,36.0,22.0,14.0
+2006.0,KV ,Statistics & Computer Science ,11.0,9.0,2.0
+2006.0,KV ,Teaching of French ,5.0,2.0,3.0
+2006.0,KV ,Teaching of German ,4.0,1.0,3.0
+2006.0,KV ,Teaching of Spanish ,30.0,3.0,27.0
+2006.0,KY ,Community Health ,464.0,97.0,367.0
+2006.0,KY ,Kinesiology ,610.0,229.0,381.0
+2006.0,KY ,Leisure Studies ,132.0,89.0,43.0
+2006.0,KY ,"Recreation, Sport, and Tourism ",240.0,145.0,94.0
+2006.0,KY ,Speech & Hearing Science ,252.0,8.0,243.0
+2006.0,LE ,Aviation Human Factors ,164.0,148.0,16.0
+2007.0,KL ,Agr & Consumer Economics ,503.0,340.0,163.0
+2007.0,KL ,Agr & Environmental Cmc & Educ ,90.0,21.0,69.0
+2007.0,KL ,Agr Engineering & Agr Science ,44.0,38.0,6.0
+2007.0,KL ,"Agribusiness, Farm & Financial ",100.0,79.0,20.0
+2007.0,KL ,Animal Sciences ,539.0,135.0,403.0
+2007.0,KL ,Consumer and Textile Marketing ,9.0,1.0,8.0
+2007.0,KL ,Crop Sciences ,85.0,61.0,24.0
+2007.0,KL ,Food Science & Human Nutrition ,354.0,85.0,269.0
+2007.0,KL ,Horticulture ,62.0,38.0,24.0
+2007.0,KL ,Human Development & Family St ,192.0,14.0,178.0
+2007.0,KL ,"Intl, Resource, Consumer Econ ",55.0,30.0,25.0
+2007.0,KL ,Natural Resrcs & Environ Sci ,197.0,95.0,101.0
+2007.0,KL ,Technical Systems Management ,96.0,92.0,3.0
+2007.0,KM ,Accountancy ,773.0,422.0,347.0
+2007.0,KM ,Business Administration ,410.0,189.0,220.0
+2007.0,KM ,Business Process Management ,2.0,1.0,1.0
+2007.0,KM ,Economics ,1.0,1.0,0.0
+2007.0,KM ,Finance ,552.0,407.0,144.0
+2007.0,KM ,Management ,1.0,0.0,1.0
+2007.0,KM ,Marketing ,3.0,1.0,2.0
+2007.0,KN ,Early Childhood Education ,60.0,0.0,59.0
+2007.0,KN ,Elementary Education ,267.0,20.0,247.0
+2007.0,KN ,Special Education ,69.0,8.0,61.0
+2007.0,KP ,Aerospace Engineering ,396.0,347.0,49.0
+2007.0,KP ,Agricultural Engineering ,46.0,39.0,7.0
+2007.0,KP ,Bioengineering ,107.0,64.0,43.0
+2007.0,KP ,Civil Engineering ,544.0,415.0,128.0
+2007.0,KP ,Computer Engineering ,434.0,397.0,35.0
+2007.0,KP ,Computer Science ,596.0,529.0,65.0
+2007.0,KP ,Electrical Engineering ,767.0,685.0,82.0
+2007.0,KP ,Engineering Mechanics ,49.0,37.0,12.0
+2007.0,KP ,Engineering Physics ,134.0,121.0,13.0
+2007.0,KP ,General Engineering ,587.0,470.0,116.0
+2007.0,KP ,Industrial Engineering ,67.0,46.0,21.0
+2007.0,KP ,Materials Science & Engr ,238.0,185.0,53.0
+2007.0,KP ,Mechanical Engineering ,858.0,756.0,100.0
+2007.0,KP ,Nuclear Engineering ,105.0,86.0,19.0
+2007.0,KR ,Architectural Studies ,547.0,300.0,247.0
+2007.0,KR ,Art Education ,77.0,10.0,67.0
+2007.0,KR ,Crafts ,22.0,5.0,17.0
+2007.0,KR ,Dance ,66.0,8.0,58.0
+2007.0,KR ,Graphic Design ,78.0,26.0,52.0
+2007.0,KR ,History of Art ,8.0,0.0,8.0
+2007.0,KR ,Industrial Design ,102.0,56.0,46.0
+2007.0,KR ,Instrumental Music ,118.0,55.0,63.0
+2007.0,KR ,Jazz Performance ,21.0,20.0,1.0
+2007.0,KR ,Landscape Architecture ,111.0,76.0,35.0
+2007.0,KR ,Music ,17.0,12.0,5.0
+2007.0,KR ,Music Composition ,8.0,7.0,1.0
+2007.0,KR ,Music Education ,225.0,110.0,115.0
+2007.0,KR ,Music History ,2.0,1.0,1.0
+2007.0,KR ,Open Studies ,9.0,5.0,4.0
+2007.0,KR ,Painting ,41.0,13.0,28.0
+2007.0,KR ,Photography ,35.0,15.0,20.0
+2007.0,KR ,Sculpture ,12.0,4.0,8.0
+2007.0,KR ,Theatre ,74.0,37.0,37.0
+2007.0,KR ,Urban Planning ,112.0,69.0,43.0
+2007.0,KR ,Voice ,25.0,5.0,20.0
+2007.0,KT ,Advertising ,356.0,90.0,266.0
+2007.0,KT ,Broadcast Journalism ,75.0,25.0,50.0
+2007.0,KT ,Media Studies ,95.0,31.0,64.0
+2007.0,KT ,News-Editorial ,143.0,46.0,97.0
+2007.0,KV ,Actuarial Science ,281.0,199.0,82.0
+2007.0,KV ,Anthropology ,159.0,53.0,106.0
+2007.0,KV ,Astronomy ,38.0,26.0,12.0
+2007.0,KV ,Biochemistry ,175.0,99.0,76.0
+2007.0,KV ,Bioengineering ,1.0,0.0,1.0
+2007.0,KV ,Biology ,31.0,8.0,23.0
+2007.0,KV ,Chemical Engineering ,372.0,250.0,122.0
+2007.0,KV ,Chemistry ,461.0,238.0,223.0
+2007.0,KV ,Classics ,27.0,14.0,13.0
+2007.0,KV ,Comparative Literature ,18.0,5.0,13.0
+2007.0,KV ,E Asian Languages & Cultures ,64.0,35.0,29.0
+2007.0,KV ,"Earth Systems, Env, & Society ",1.0,1.0,0.0
+2007.0,KV ,Economics ,760.0,568.0,188.0
+2007.0,KV ,English ,903.0,274.0,626.0
+2007.0,KV ,Finance ,93.0,60.0,33.0
+2007.0,KV ,French ,63.0,12.0,51.0
+2007.0,KV ,Geography ,50.0,36.0,14.0
+2007.0,KV ,Geology ,59.0,39.0,20.0
+2007.0,KV ,Germanic Lang & Lit ,32.0,14.0,17.0
+2007.0,KV ,History ,592.0,378.0,212.0
+2007.0,KV ,History of Art ,34.0,5.0,29.0
+2007.0,KV ,Humanities ,3.0,3.0,0.0
+2007.0,KV ,Individual Plans of Study ,6.0,2.0,4.0
+2007.0,KV ,Integrative Biology ,292.0,138.0,154.0
+2007.0,KV ,Interdisciplinary ,49.0,22.0,27.0
+2007.0,KV ,International Studies ,369.0,108.0,261.0
+2007.0,KV ,Italian ,7.0,4.0,3.0
+2007.0,KV ,Latin American Studies ,7.0,4.0,3.0
+2007.0,KV ,Linguistics ,74.0,31.0,43.0
+2007.0,KV ,Math & Computer Science ,106.0,99.0,7.0
+2007.0,KV ,Mathematics ,350.0,178.0,172.0
+2007.0,KV ,Molecular and Cellular Biology ,916.0,454.0,461.0
+2007.0,KV ,Music ,1.0,1.0,0.0
+2007.0,KV ,Philosophy ,84.0,66.0,18.0
+2007.0,KV ,Physics ,164.0,139.0,24.0
+2007.0,KV ,Political Science ,1063.0,616.0,445.0
+2007.0,KV ,Portuguese ,2.0,1.0,1.0
+2007.0,KV ,Psychology ,1335.0,395.0,938.0
+2007.0,KV ,Religious Studies ,25.0,14.0,11.0
+2007.0,KV ,Rhetoric ,108.0,49.0,59.0
+2007.0,KV ,Russian & E European Studies ,5.0,3.0,2.0
+2007.0,KV ,Russian Lang & Literature ,4.0,1.0,3.0
+2007.0,KV ,Sociology ,488.0,196.0,291.0
+2007.0,KV ,Spanish ,294.0,77.0,217.0
+2007.0,KV ,Speech Communication ,670.0,295.0,374.0
+2007.0,KV ,Statistics ,62.0,44.0,18.0
+2007.0,KV ,Statistics & Computer Science ,8.0,6.0,2.0
+2007.0,KV ,Teaching of French ,3.0,0.0,3.0
+2007.0,KV ,Teaching of German ,4.0,1.0,3.0
+2007.0,KV ,Teaching of Spanish ,31.0,2.0,29.0
+2007.0,KY ,Community Health ,491.0,112.0,379.0
+2007.0,KY ,Kinesiology ,589.0,229.0,359.0
+2007.0,KY ,Leisure Studies ,15.0,11.0,4.0
+2007.0,KY ,"Recreation, Sport, and Tourism ",354.0,224.0,129.0
+2007.0,KY ,Speech & Hearing Science ,274.0,13.0,261.0
+2007.0,LE ,Aviation Human Factors ,163.0,149.0,14.0
+2008.0,KL ,Agr & Consumer Economics ,625.0,423.0,201.0
+2008.0,KL ,Agr & Environmental Cmc & Educ ,73.0,15.0,58.0
+2008.0,KL ,Agr Engineering & Agr Science ,54.0,47.0,7.0
+2008.0,KL ,"Agribusiness, Farm & Financial ",31.0,26.0,5.0
+2008.0,KL ,Animal Sciences ,541.0,116.0,424.0
+2008.0,KL ,Crop Sciences ,76.0,54.0,22.0
+2008.0,KL ,Food Science & Human Nutrition ,336.0,75.0,261.0
+2008.0,KL ,Horticulture ,57.0,36.0,21.0
+2008.0,KL ,Human Development & Family St ,211.0,9.0,202.0
+2008.0,KL ,"Intl, Resource, Consumer Econ ",20.0,13.0,7.0
+2008.0,KL ,Natural Resrcs & Environ Sci ,177.0,87.0,89.0
+2008.0,KL ,Technical Systems Management ,105.0,98.0,7.0
+2008.0,KM ,Accountancy ,750.0,428.0,321.0
+2008.0,KM ,Business Administration ,206.0,92.0,114.0
+2008.0,KM ,Business Process Management ,6.0,3.0,3.0
+2008.0,KM ,Finance ,598.0,409.0,188.0
+2008.0,KM ,Information Sys & Info Tech ,25.0,19.0,6.0
+2008.0,KM ,Management ,84.0,41.0,43.0
+2008.0,KM ,Marketing ,102.0,39.0,63.0
+2008.0,KM ,Supply Chain Management ,24.0,16.0,8.0
+2008.0,KN ,Early Childhood Education ,55.0,1.0,53.0
+2008.0,KN ,Elementary Education ,261.0,16.0,245.0
+2008.0,KN ,Special Education ,67.0,8.0,59.0
+2008.0,KP ,Aerospace Engineering ,418.0,369.0,49.0
+2008.0,KP ,Agricultural Engineering ,51.0,42.0,9.0
+2008.0,KP ,Bioengineering ,135.0,77.0,58.0
+2008.0,KP ,Civil Engineering ,667.0,505.0,161.0
+2008.0,KP ,Computer Engineering ,446.0,398.0,46.0
+2008.0,KP ,Computer Science ,628.0,561.0,66.0
+2008.0,KP ,Electrical Engineering ,799.0,713.0,85.0
+2008.0,KP ,Engineering Mechanics ,75.0,61.0,13.0
+2008.0,KP ,Engineering Physics ,131.0,118.0,13.0
+2008.0,KP ,General Engineering ,540.0,409.0,131.0
+2008.0,KP ,Industrial Engineering ,87.0,62.0,25.0
+2008.0,KP ,Materials Science & Engr ,275.0,218.0,57.0
+2008.0,KP ,Mechanical Engineering ,860.0,757.0,101.0
+2008.0,KP ,Nuclear Engineering ,107.0,95.0,12.0
+2008.0,KR ,Architectural Studies ,578.0,322.0,256.0
+2008.0,KR ,Art Education ,74.0,11.0,63.0
+2008.0,KR ,Crafts ,20.0,5.0,15.0
+2008.0,KR ,Dance ,68.0,9.0,59.0
+2008.0,KR ,Graphic Design ,71.0,22.0,49.0
+2008.0,KR ,History of Art ,13.0,1.0,12.0
+2008.0,KR ,Industrial Design ,107.0,57.0,50.0
+2008.0,KR ,Instrumental Music ,102.0,47.0,55.0
+2008.0,KR ,Jazz Performance ,38.0,35.0,3.0
+2008.0,KR ,Landscape Architecture ,111.0,69.0,42.0
+2008.0,KR ,Music ,21.0,11.0,10.0
+2008.0,KR ,Music Composition ,9.0,6.0,3.0
+2008.0,KR ,Music Education ,238.0,117.0,121.0
+2008.0,KR ,Music History ,2.0,1.0,1.0
+2008.0,KR ,New Media ,15.0,8.0,7.0
+2008.0,KR ,Open Studies ,12.0,8.0,4.0
+2008.0,KR ,Painting ,35.0,11.0,24.0
+2008.0,KR ,Photography ,29.0,13.0,16.0
+2008.0,KR ,Sculpture ,10.0,2.0,8.0
+2008.0,KR ,Theatre ,80.0,39.0,41.0
+2008.0,KR ,Urban Planning ,103.0,66.0,37.0
+2008.0,KR ,Voice ,35.0,7.0,28.0
+2008.0,KT ,Advertising ,433.0,128.0,305.0
+2008.0,KT ,Broadcast Journalism ,138.0,38.0,100.0
+2008.0,KT ,Media Studies ,102.0,31.0,71.0
+2008.0,KT ,News-Editorial ,219.0,64.0,155.0
+2008.0,KV ,Actuarial Science ,294.0,189.0,105.0
+2008.0,KV ,African American Studies ,1.0,1.0,0.0
+2008.0,KV ,Anthropology ,182.0,60.0,122.0
+2008.0,KV ,Astronomy ,47.0,34.0,13.0
+2008.0,KV ,Atmospheric Sciences ,41.0,27.0,13.0
+2008.0,KV ,Biochemistry ,131.0,82.0,49.0
+2008.0,KV ,Biology ,15.0,8.0,7.0
+2008.0,KV ,Chemical Engineering ,415.0,277.0,138.0
+2008.0,KV ,Chemistry ,447.0,244.0,203.0
+2008.0,KV ,Classics ,30.0,12.0,18.0
+2008.0,KV ,Comparative Literature ,16.0,5.0,11.0
+2008.0,KV ,E Asian Languages & Cultures ,74.0,38.0,36.0
+2008.0,KV ,"Earth Systems, Env, & Society ",65.0,37.0,28.0
+2008.0,KV ,Economics ,665.0,502.0,160.0
+2008.0,KV ,English ,799.0,241.0,557.0
+2008.0,KV ,Finance ,5.0,5.0,0.0
+2008.0,KV ,French ,61.0,16.0,45.0
+2008.0,KV ,Geography ,34.0,25.0,8.0
+2008.0,KV ,Geology ,54.0,35.0,19.0
+2008.0,KV ,Germanic Lang & Lit ,34.0,15.0,19.0
+2008.0,KV ,History ,537.0,357.0,179.0
+2008.0,KV ,History of Art ,44.0,5.0,39.0
+2008.0,KV ,Individual Plans of Study ,7.0,4.0,3.0
+2008.0,KV ,Integrative Biology ,322.0,153.0,169.0
+2008.0,KV ,Interdisciplinary ,65.0,31.0,34.0
+2008.0,KV ,International Studies ,402.0,111.0,290.0
+2008.0,KV ,Italian ,8.0,3.0,5.0
+2008.0,KV ,Latin American Studies ,6.0,2.0,4.0
+2008.0,KV ,Linguistics ,67.0,26.0,41.0
+2008.0,KV ,Math & Computer Science ,92.0,84.0,8.0
+2008.0,KV ,Mathematics ,213.0,113.0,99.0
+2008.0,KV ,Molecular and Cellular Biology ,1009.0,499.0,508.0
+2008.0,KV ,Philosophy ,90.0,74.0,16.0
+2008.0,KV ,Physics ,147.0,126.0,20.0
+2008.0,KV ,Political Science ,986.0,593.0,393.0
+2008.0,KV ,Psychology ,1263.0,345.0,918.0
+2008.0,KV ,Religious Studies ,23.0,12.0,11.0
+2008.0,KV ,Rhetoric ,119.0,60.0,59.0
+2008.0,KV ,Russian & E European Studies ,4.0,2.0,2.0
+2008.0,KV ,Russian Lang & Literature ,4.0,2.0,2.0
+2008.0,KV ,"Russian, E Eur, Eurasian St ",1.0,0.0,1.0
+2008.0,KV ,Sociology ,470.0,189.0,279.0
+2008.0,KV ,Spanish ,249.0,68.0,181.0
+2008.0,KV ,Speech Communication ,701.0,296.0,405.0
+2008.0,KV ,Statistics ,74.0,47.0,27.0
+2008.0,KV ,Statistics & Computer Science ,14.0,11.0,3.0
+2008.0,KV ,Teaching of French ,5.0,1.0,4.0
+2008.0,KV ,Teaching of German ,2.0,1.0,1.0
+2008.0,KV ,Teaching of Spanish ,36.0,2.0,34.0
+2008.0,KY ,Community Health ,572.0,118.0,454.0
+2008.0,KY ,Kinesiology ,594.0,246.0,347.0
+2008.0,KY ,Leisure Studies ,5.0,4.0,1.0
+2008.0,KY ,"Recreation, Sport, and Tourism ",358.0,240.0,117.0
+2008.0,KY ,Speech & Hearing Science ,278.0,17.0,261.0
+2008.0,LE ,Aviation Human Factors ,140.0,127.0,13.0
+2009.0,KL ,Agr & Consumer Economics ,569.0,386.0,183.0
+2009.0,KL ,Agr & Environmental Cmc & Educ ,82.0,18.0,64.0
+2009.0,KL ,Agr Engineering & Agr Science ,69.0,60.0,9.0
+2009.0,KL ,"Agribusiness, Farm & Financial ",4.0,3.0,1.0
+2009.0,KL ,Animal Sciences ,518.0,114.0,403.0
+2009.0,KL ,Crop Sciences ,98.0,69.0,29.0
+2009.0,KL ,Food Science & Human Nutrition ,377.0,78.0,299.0
+2009.0,KL ,Horticulture ,51.0,34.0,17.0
+2009.0,KL ,Human Development & Family St ,208.0,14.0,192.0
+2009.0,KL ,"Intl, Resource, Consumer Econ ",2.0,2.0,0.0
+2009.0,KL ,Natural Resrcs & Environ Sci ,195.0,99.0,96.0
+2009.0,KL ,Technical Systems Management ,129.0,118.0,11.0
+2009.0,KM ,Accountancy ,775.0,447.0,328.0
+2009.0,KM ,Business Administration ,63.0,35.0,28.0
+2009.0,KM ,Business Process Management ,18.0,10.0,8.0
+2009.0,KM ,Finance ,545.0,393.0,152.0
+2009.0,KM ,Information Sys & Info Tech ,37.0,30.0,7.0
+2009.0,KM ,Management ,164.0,68.0,95.0
+2009.0,KM ,Marketing ,151.0,58.0,93.0
+2009.0,KM ,Supply Chain Management ,35.0,24.0,11.0
+2009.0,KN ,Early Childhood Education ,39.0,1.0,38.0
+2009.0,KN ,Elementary Education ,259.0,12.0,247.0
+2009.0,KN ,Special Education ,67.0,9.0,58.0
+2009.0,KP ,Aerospace Engineering ,382.0,330.0,52.0
+2009.0,KP ,Agricultural & Biological Engr ,31.0,20.0,11.0
+2009.0,KP ,Agricultural Engineering ,43.0,35.0,8.0
+2009.0,KP ,Bioengineering ,140.0,83.0,57.0
+2009.0,KP ,Civil Engineering ,764.0,552.0,210.0
+2009.0,KP ,Computer Engineering ,469.0,423.0,45.0
+2009.0,KP ,Computer Science ,680.0,614.0,66.0
+2009.0,KP ,Electrical Engineering ,942.0,835.0,106.0
+2009.0,KP ,Engineering Mechanics ,106.0,89.0,17.0
+2009.0,KP ,Engineering Physics ,139.0,125.0,14.0
+2009.0,KP ,General Engineering ,454.0,349.0,104.0
+2009.0,KP ,Industrial Engineering ,116.0,86.0,30.0
+2009.0,KP ,Materials Science & Engr ,305.0,225.0,80.0
+2009.0,KP ,Mechanical Engineering ,765.0,680.0,83.0
+2009.0,KP ,Nuclear Engineering ,78.0,69.0,9.0
+2009.0,KP ,"Nuclear, Plasma, Radiolgc Engr ",77.0,61.0,16.0
+2009.0,KR ,Architectural Studies ,552.0,317.0,235.0
+2009.0,KR ,Art Education ,65.0,15.0,50.0
+2009.0,KR ,Crafts ,14.0,3.0,11.0
+2009.0,KR ,Dance ,67.0,6.0,61.0
+2009.0,KR ,Graphic Design ,64.0,23.0,41.0
+2009.0,KR ,History of Art ,13.0,0.0,13.0
+2009.0,KR ,Industrial Design ,117.0,56.0,61.0
+2009.0,KR ,Instrumental Music ,94.0,43.0,51.0
+2009.0,KR ,Jazz Performance ,41.0,36.0,5.0
+2009.0,KR ,Landscape Architecture ,94.0,56.0,38.0
+2009.0,KR ,Music ,17.0,10.0,7.0
+2009.0,KR ,Music Composition ,11.0,9.0,2.0
+2009.0,KR ,Music Education ,214.0,101.0,113.0
+2009.0,KR ,Music History ,7.0,3.0,4.0
+2009.0,KR ,New Media ,22.0,10.0,12.0
+2009.0,KR ,Open Studies ,12.0,7.0,5.0
+2009.0,KR ,Painting ,31.0,9.0,22.0
+2009.0,KR ,Photography ,33.0,8.0,25.0
+2009.0,KR ,Sculpture ,5.0,1.0,4.0
+2009.0,KR ,Theatre ,76.0,31.0,45.0
+2009.0,KR ,Urban Planning ,103.0,72.0,31.0
+2009.0,KR ,Voice ,30.0,7.0,23.0
+2009.0,KT ,Advertising ,426.0,142.0,283.0
+2009.0,KT ,Broadcast Journalism ,154.0,42.0,112.0
+2009.0,KT ,Media Studies ,110.0,31.0,79.0
+2009.0,KT ,Media and Cinema Studies ,1.0,1.0,0.0
+2009.0,KT ,News-Editorial ,215.0,64.0,151.0
+2009.0,KV ,Actuarial Science ,286.0,174.0,112.0
+2009.0,KV ,African American Studies ,7.0,1.0,6.0
+2009.0,KV ,Anthropology ,152.0,42.0,110.0
+2009.0,KV ,Astronomy ,38.0,27.0,11.0
+2009.0,KV ,Atmospheric Sciences ,62.0,38.0,24.0
+2009.0,KV ,Biochemistry ,141.0,77.0,64.0
+2009.0,KV ,Bioengineering ,1.0,1.0,0.0
+2009.0,KV ,Biology ,11.0,6.0,5.0
+2009.0,KV ,Chemical Engineering ,455.0,306.0,148.0
+2009.0,KV ,Chemistry ,449.0,252.0,196.0
+2009.0,KV ,Classics ,31.0,16.0,15.0
+2009.0,KV ,Communication ,471.0,193.0,278.0
+2009.0,KV ,Comparative Literature ,21.0,8.0,12.0
+2009.0,KV ,E Asian Languages & Cultures ,72.0,33.0,39.0
+2009.0,KV ,"Earth Systems, Env, & Society ",128.0,68.0,60.0
+2009.0,KV ,Economics ,633.0,486.0,146.0
+2009.0,KV ,English ,759.0,244.0,514.0
+2009.0,KV ,Finance ,4.0,3.0,1.0
+2009.0,KV ,French ,49.0,12.0,37.0
+2009.0,KV ,Gender and Women's Studies ,9.0,1.0,8.0
+2009.0,KV ,Geography ,24.0,17.0,6.0
+2009.0,KV ,Geology ,51.0,34.0,17.0
+2009.0,KV ,Germanic Lang & Lit ,29.0,11.0,17.0
+2009.0,KV ,Global Studies ,93.0,25.0,68.0
+2009.0,KV ,History ,508.0,332.0,175.0
+2009.0,KV ,History of Art ,36.0,4.0,32.0
+2009.0,KV ,Individual Plans of Study ,9.0,6.0,3.0
+2009.0,KV ,Integrative Biology ,329.0,145.0,184.0
+2009.0,KV ,Interdisciplinary ,45.0,19.0,26.0
+2009.0,KV ,International Studies ,316.0,91.0,224.0
+2009.0,KV ,Italian ,8.0,3.0,5.0
+2009.0,KV ,Latin American Studies ,8.0,4.0,4.0
+2009.0,KV ,Linguistics ,47.0,20.0,27.0
+2009.0,KV ,Math & Computer Science ,79.0,68.0,11.0
+2009.0,KV ,Mathematics ,129.0,68.0,61.0
+2009.0,KV ,Molecular and Cellular Biology ,1041.0,524.0,514.0
+2009.0,KV ,Philosophy ,96.0,76.0,20.0
+2009.0,KV ,Physics ,168.0,149.0,19.0
+2009.0,KV ,Political Science ,946.0,589.0,357.0
+2009.0,KV ,Psychology ,1240.0,339.0,900.0
+2009.0,KV ,Religion ,6.0,2.0,4.0
+2009.0,KV ,Religious Studies ,19.0,9.0,10.0
+2009.0,KV ,Rhetoric ,118.0,60.0,58.0
+2009.0,KV ,Russian & E European Studies ,5.0,4.0,1.0
+2009.0,KV ,Russian Lang & Literature ,4.0,2.0,2.0
+2009.0,KV ,"Russian, E Eur, Eurasian St ",5.0,4.0,1.0
+2009.0,KV ,Sociology ,442.0,170.0,271.0
+2009.0,KV ,Spanish ,227.0,60.0,167.0
+2009.0,KV ,Speech Communication ,359.0,146.0,213.0
+2009.0,KV ,Statistics ,94.0,59.0,35.0
+2009.0,KV ,Statistics & Computer Science ,16.0,13.0,3.0
+2009.0,KV ,Teaching of French ,7.0,1.0,6.0
+2009.0,KV ,Teaching of German ,3.0,1.0,2.0
+2009.0,KV ,Teaching of Spanish ,28.0,6.0,22.0
+2009.0,KY ,Athletic Training ,29.0,10.0,19.0
+2009.0,KY ,Community Health ,555.0,113.0,441.0
+2009.0,KY ,Health ,19.0,3.0,16.0
+2009.0,KY ,Kinesiology ,575.0,242.0,332.0
+2009.0,KY ,Leisure Studies ,1.0,1.0,0.0
+2009.0,KY ,"Recreation, Sport, and Tourism ",364.0,241.0,122.0
+2009.0,KY ,Speech & Hearing Science ,273.0,13.0,259.0
+2009.0,LE ,Aviation Human Factors ,128.0,118.0,10.0
+2010.0,KL ,Agr & Consumer Economics ,532.0,356.0,176.0
+2010.0,KL ,Agr & Environmental Cmc & Educ ,90.0,26.0,64.0
+2010.0,KL ,Agr Engineering & Agr Science ,41.0,35.0,6.0
+2010.0,KL ,Agricultural & Biological Engr ,29.0,24.0,5.0
+2010.0,KL ,Animal Sciences ,490.0,97.0,392.0
+2010.0,KL ,Crop Sciences ,100.0,69.0,31.0
+2010.0,KL ,Food Science & Human Nutrition ,372.0,74.0,298.0
+2010.0,KL ,Horticulture ,43.0,29.0,14.0
+2010.0,KL ,Human Development & Family St ,213.0,20.0,191.0
+2010.0,KL ,Natural Resrcs & Environ Sci ,187.0,102.0,85.0
+2010.0,KL ,Technical Systems Management ,149.0,139.0,10.0
+2010.0,KM ,Accountancy ,875.0,499.0,376.0
+2010.0,KM ,Business Administration ,8.0,4.0,4.0
+2010.0,KM ,Business Process Management ,23.0,12.0,11.0
+2010.0,KM ,Finance ,436.0,308.0,128.0
+2010.0,KM ,Information Sys & Info Tech ,32.0,25.0,7.0
+2010.0,KM ,Management ,181.0,91.0,89.0
+2010.0,KM ,Marketing ,201.0,68.0,133.0
+2010.0,KM ,Supply Chain Management ,52.0,32.0,20.0
+2010.0,KN ,Early Childhood Education ,42.0,0.0,42.0
+2010.0,KN ,Elementary Education ,268.0,14.0,253.0
+2010.0,KN ,Special Education ,76.0,8.0,68.0
+2010.0,KP ,Aerospace Engineering ,376.0,325.0,51.0
+2010.0,KP ,Agricultural & Biological Engr ,64.0,44.0,20.0
+2010.0,KP ,Agricultural Engineering ,31.0,24.0,7.0
+2010.0,KP ,Bioengineering ,158.0,99.0,59.0
+2010.0,KP ,Civil Engineering ,803.0,580.0,221.0
+2010.0,KP ,Computer Engineering ,524.0,480.0,43.0
+2010.0,KP ,Computer Science ,795.0,716.0,79.0
+2010.0,KP ,Electrical Engineering ,1022.0,905.0,115.0
+2010.0,KP ,Engineering Mechanics ,135.0,115.0,20.0
+2010.0,KP ,Engineering Physics ,143.0,127.0,16.0
+2010.0,KP ,General Engineering ,426.0,326.0,99.0
+2010.0,KP ,Industrial Engineering ,161.0,122.0,39.0
+2010.0,KP ,Materials Science & Engr ,309.0,239.0,70.0
+2010.0,KP ,Mechanical Engineering ,802.0,718.0,82.0
+2010.0,KP ,Nuclear Engineering ,92.0,80.0,12.0
+2010.0,KP ,"Nuclear, Plasma, Radiolgc Engr ",82.0,69.0,13.0
+2010.0,KR ,Architectural Studies ,503.0,290.0,213.0
+2010.0,KR ,Art Education ,65.0,12.0,53.0
+2010.0,KR ,Crafts ,14.0,1.0,13.0
+2010.0,KR ,Dance ,67.0,6.0,61.0
+2010.0,KR ,Graphic Design ,67.0,25.0,42.0
+2010.0,KR ,History of Art ,13.0,0.0,13.0
+2010.0,KR ,Industrial Design ,112.0,53.0,59.0
+2010.0,KR ,Instrumental Music ,82.0,34.0,48.0
+2010.0,KR ,Jazz Performance ,33.0,27.0,6.0
+2010.0,KR ,Landscape Architecture ,84.0,44.0,40.0
+2010.0,KR ,Music ,31.0,17.0,14.0
+2010.0,KR ,Music Composition ,12.0,9.0,3.0
+2010.0,KR ,Music Education ,185.0,87.0,98.0
+2010.0,KR ,Music History ,8.0,3.0,5.0
+2010.0,KR ,New Media ,25.0,8.0,17.0
+2010.0,KR ,Open Studies ,8.0,3.0,5.0
+2010.0,KR ,Painting ,35.0,9.0,26.0
+2010.0,KR ,Photography ,36.0,9.0,27.0
+2010.0,KR ,Sculpture ,3.0,1.0,2.0
+2010.0,KR ,Theatre ,60.0,19.0,41.0
+2010.0,KR ,Urban Planning ,104.0,67.0,37.0
+2010.0,KR ,Voice ,32.0,6.0,26.0
+2010.0,KT ,Advertising ,511.0,158.0,353.0
+2010.0,KT ,Broadcast Journalism ,136.0,41.0,95.0
+2010.0,KT ,Media Studies ,59.0,17.0,42.0
+2010.0,KT ,Media and Cinema Studies ,62.0,33.0,29.0
+2010.0,KT ,News-Editorial ,181.0,55.0,126.0
+2010.0,KV ,Actuarial Science ,292.0,169.0,123.0
+2010.0,KV ,African American Studies ,7.0,4.0,3.0
+2010.0,KV ,Anthropology ,145.0,52.0,93.0
+2010.0,KV ,Astronomy ,42.0,34.0,8.0
+2010.0,KV ,Atmospheric Sciences ,78.0,52.0,26.0
+2010.0,KV ,Biochemistry ,139.0,73.0,66.0
+2010.0,KV ,Biology ,10.0,4.0,6.0
+2010.0,KV ,Chemical Engineering ,514.0,351.0,162.0
+2010.0,KV ,Chemistry ,463.0,265.0,197.0
+2010.0,KV ,Classics ,30.0,17.0,13.0
+2010.0,KV ,Communication ,791.0,311.0,480.0
+2010.0,KV ,Comparative Literature ,19.0,7.0,11.0
+2010.0,KV ,E Asian Languages & Cultures ,82.0,34.0,48.0
+2010.0,KV ,"Earth Systems, Env, & Society ",158.0,85.0,73.0
+2010.0,KV ,Economics ,650.0,481.0,169.0
+2010.0,KV ,English ,686.0,224.0,461.0
+2010.0,KV ,Finance ,2.0,2.0,0.0
+2010.0,KV ,French ,48.0,14.0,34.0
+2010.0,KV ,Gender and Women's Studies ,16.0,0.0,16.0
+2010.0,KV ,Geography ,21.0,17.0,4.0
+2010.0,KV ,Geology ,47.0,33.0,14.0
+2010.0,KV ,Germanic Lang & Lit ,15.0,7.0,8.0
+2010.0,KV ,Global Studies ,205.0,57.0,148.0
+2010.0,KV ,History ,487.0,325.0,161.0
+2010.0,KV ,History of Art ,31.0,0.0,31.0
+2010.0,KV ,Individual Plans of Study ,8.0,6.0,2.0
+2010.0,KV ,Integrative Biology ,361.0,152.0,209.0
+2010.0,KV ,Interdisciplinary ,16.0,7.0,9.0
+2010.0,KV ,International Studies ,132.0,33.0,98.0
+2010.0,KV ,Italian ,5.0,1.0,4.0
+2010.0,KV ,Latin American Studies ,6.0,3.0,3.0
+2010.0,KV ,Linguistics ,40.0,16.0,24.0
+2010.0,KV ,Math & Computer Science ,82.0,72.0,10.0
+2010.0,KV ,Mathematics ,112.0,62.0,50.0
+2010.0,KV ,Molecular and Cellular Biology ,1030.0,528.0,502.0
+2010.0,KV ,Philosophy ,90.0,72.0,18.0
+2010.0,KV ,Physics ,189.0,161.0,27.0
+2010.0,KV ,Political Science ,841.0,531.0,310.0
+2010.0,KV ,Psychology ,1299.0,416.0,880.0
+2010.0,KV ,Religion ,15.0,8.0,7.0
+2010.0,KV ,Religious Studies ,8.0,3.0,5.0
+2010.0,KV ,Rhetoric ,108.0,62.0,46.0
+2010.0,KV ,Russian & E European Studies ,4.0,4.0,0.0
+2010.0,KV ,Russian Lang & Literature ,4.0,3.0,1.0
+2010.0,KV ,"Russian, E Eur, Eurasian St ",6.0,6.0,0.0
+2010.0,KV ,Sociology ,358.0,141.0,217.0
+2010.0,KV ,Spanish ,189.0,41.0,148.0
+2010.0,KV ,Speech Communication ,71.0,21.0,50.0
+2010.0,KV ,Statistics ,115.0,74.0,41.0
+2010.0,KV ,Statistics & Computer Science ,19.0,12.0,7.0
+2010.0,KV ,Teaching of French ,4.0,0.0,4.0
+2010.0,KV ,Teaching of German ,3.0,1.0,2.0
+2010.0,KV ,Teaching of Spanish ,25.0,6.0,19.0
+2010.0,KY ,Athletic Training ,34.0,9.0,25.0
+2010.0,KY ,Community Health ,519.0,115.0,403.0
+2010.0,KY ,Health ,79.0,20.0,59.0
+2010.0,KY ,Kinesiology ,580.0,247.0,332.0
+2010.0,KY ,"Recreation, Sport, and Tourism ",315.0,206.0,108.0
+2010.0,KY ,Speech & Hearing Science ,275.0,11.0,264.0
+2010.0,LE ,Aviation Human Factors ,101.0,94.0,7.0
+2010.0,LL ,Social Work ,47.0,6.0,41.0
+2011.0,KL ,Agr & Consumer Economics ,568.0,382.0,186.0
+2011.0,KL ,Agr & Environmental Cmc & Educ ,78.0,19.0,59.0
+2011.0,KL ,Agr Engineering & Agr Science ,21.0,18.0,3.0
+2011.0,KL ,Agricultural & Biological Engr ,38.0,28.0,10.0
+2011.0,KL ,Animal Sciences ,465.0,79.0,385.0
+2011.0,KL ,Crop Sciences ,93.0,71.0,22.0
+2011.0,KL ,Food Science & Human Nutrition ,414.0,85.0,329.0
+2011.0,KL ,Horticulture ,33.0,21.0,12.0
+2011.0,KL ,Human Development & Family St ,217.0,16.0,201.0
+2011.0,KL ,Natural Resrcs & Environ Sci ,235.0,122.0,113.0
+2011.0,KL ,Technical Systems Management ,189.0,175.0,14.0
+2011.0,KM ,Accountancy ,942.0,517.0,425.0
+2011.0,KM ,Business Administration ,1.0,1.0,0.0
+2011.0,KM ,Business Process Management ,31.0,18.0,13.0
+2011.0,KM ,Finance ,492.0,358.0,134.0
+2011.0,KM ,Information Sys & Info Tech ,35.0,28.0,7.0
+2011.0,KM ,Management ,150.0,77.0,73.0
+2011.0,KM ,Marketing ,205.0,72.0,133.0
+2011.0,KM ,Supply Chain Management ,50.0,27.0,23.0
+2011.0,KN ,Early Childhood Education ,38.0,0.0,38.0
+2011.0,KN ,Elementary Education ,273.0,19.0,253.0
+2011.0,KN ,Special Education ,76.0,9.0,67.0
+2011.0,KP ,Aerospace Engineering ,366.0,316.0,50.0
+2011.0,KP ,Agricultural & Biological Engr ,98.0,67.0,31.0
+2011.0,KP ,Agricultural Engineering ,6.0,3.0,3.0
+2011.0,KP ,Bioengineering ,178.0,103.0,75.0
+2011.0,KP ,Civil Engineering ,787.0,589.0,198.0
+2011.0,KP ,Computer Engineering ,608.0,563.0,45.0
+2011.0,KP ,Computer Science ,855.0,776.0,79.0
+2011.0,KP ,Electrical Engineering ,1128.0,995.0,133.0
+2011.0,KP ,Engineering Mechanics ,142.0,126.0,16.0
+2011.0,KP ,Engineering Physics ,152.0,138.0,14.0
+2011.0,KP ,General Engineering ,384.0,307.0,77.0
+2011.0,KP ,Industrial Engineering ,183.0,139.0,44.0
+2011.0,KP ,Materials Science & Engr ,379.0,294.0,85.0
+2011.0,KP ,Mechanical Engineering ,775.0,679.0,94.0
+2011.0,KP ,Nuclear Engineering ,44.0,37.0,7.0
+2011.0,KP ,"Nuclear, Plasma, Radiolgc Engr ",163.0,145.0,18.0
+2011.0,KR ,Architectural Studies ,505.0,286.0,219.0
+2011.0,KR ,Art Education ,59.0,10.0,48.0
+2011.0,KR ,Crafts ,12.0,2.0,10.0
+2011.0,KR ,Dance ,61.0,5.0,56.0
+2011.0,KR ,Graphic Design ,70.0,27.0,43.0
+2011.0,KR ,History of Art ,10.0,1.0,9.0
+2011.0,KR ,Industrial Design ,117.0,54.0,63.0
+2011.0,KR ,Instrumental Music ,89.0,40.0,49.0
+2011.0,KR ,Jazz Performance ,27.0,23.0,4.0
+2011.0,KR ,Landscape Architecture ,73.0,38.0,35.0
+2011.0,KR ,Music ,35.0,16.0,18.0
+2011.0,KR ,Music Composition ,9.0,6.0,3.0
+2011.0,KR ,Music Education ,173.0,77.0,96.0
+2011.0,KR ,Music History ,5.0,2.0,3.0
+2011.0,KR ,New Media ,24.0,8.0,16.0
+2011.0,KR ,Open Studies ,6.0,3.0,3.0
+2011.0,KR ,Painting ,43.0,11.0,32.0
+2011.0,KR ,Photography ,42.0,11.0,31.0
+2011.0,KR ,Sculpture ,6.0,4.0,2.0
+2011.0,KR ,Theatre ,75.0,36.0,39.0
+2011.0,KR ,Urban Planning ,116.0,73.0,43.0
+2011.0,KR ,Voice ,30.0,7.0,23.0
+2011.0,KT ,Advertising ,626.0,193.0,433.0
+2011.0,KT ,Agricultural Communications ,7.0,0.0,7.0
+2011.0,KT ,Broadcast Journalism ,157.0,55.0,102.0
+2011.0,KT ,Media Studies ,12.0,2.0,10.0
+2011.0,KT ,Media and Cinema Studies ,118.0,59.0,59.0
+2011.0,KT ,News-Editorial ,169.0,46.0,123.0
+2011.0,KV ,Actuarial Science ,279.0,159.0,120.0
+2011.0,KV ,African American Studies ,3.0,3.0,0.0
+2011.0,KV ,Anthropology ,147.0,47.0,100.0
+2011.0,KV ,Astronomy ,39.0,26.0,13.0
+2011.0,KV ,Atmospheric Sciences ,77.0,50.0,27.0
+2011.0,KV ,Biochemistry ,142.0,84.0,58.0
+2011.0,KV ,Biology ,8.0,4.0,4.0
+2011.0,KV ,Chemical Engineering ,540.0,365.0,175.0
+2011.0,KV ,Chemistry ,483.0,282.0,201.0
+2011.0,KV ,Classics ,16.0,9.0,7.0
+2011.0,KV ,Communication ,806.0,339.0,466.0
+2011.0,KV ,Comparative Literature ,12.0,4.0,6.0
+2011.0,KV ,E Asian Languages & Cultures ,77.0,30.0,47.0
+2011.0,KV ,"Earth Systems, Env, & Society ",108.0,55.0,53.0
+2011.0,KV ,"Earth, Society, & Environment ",25.0,16.0,9.0
+2011.0,KV ,Economics ,687.0,477.0,210.0
+2011.0,KV ,English ,577.0,176.0,400.0
+2011.0,KV ,French ,50.0,14.0,36.0
+2011.0,KV ,Gender and Women's Studies ,16.0,3.0,13.0
+2011.0,KV ,Geography ,22.0,18.0,4.0
+2011.0,KV ,Geology ,40.0,27.0,13.0
+2011.0,KV ,Germanic Lang & Lit ,14.0,4.0,10.0
+2011.0,KV ,Global Studies ,263.0,76.0,187.0
+2011.0,KV ,History ,437.0,289.0,147.0
+2011.0,KV ,History of Art ,33.0,1.0,32.0
+2011.0,KV ,Individual Plans of Study ,5.0,4.0,1.0
+2011.0,KV ,Integrative Biology ,439.0,194.0,245.0
+2011.0,KV ,Interdisciplinary ,10.0,6.0,4.0
+2011.0,KV ,International Studies ,47.0,12.0,34.0
+2011.0,KV ,Italian ,3.0,2.0,1.0
+2011.0,KV ,Latin American Studies ,7.0,4.0,3.0
+2011.0,KV ,Latina/Latino Studies ,8.0,3.0,5.0
+2011.0,KV ,Linguistics ,49.0,22.0,27.0
+2011.0,KV ,Math & Computer Science ,72.0,64.0,8.0
+2011.0,KV ,Mathematics ,125.0,59.0,66.0
+2011.0,KV ,Molecular and Cellular Biology ,1051.0,555.0,496.0
+2011.0,KV ,Philosophy ,96.0,70.0,26.0
+2011.0,KV ,Physics ,242.0,209.0,33.0
+2011.0,KV ,Political Science ,765.0,470.0,295.0
+2011.0,KV ,Portuguese ,1.0,1.0,0.0
+2011.0,KV ,Psychology ,1307.0,408.0,896.0
+2011.0,KV ,Religion ,19.0,12.0,7.0
+2011.0,KV ,Religious Studies ,5.0,1.0,4.0
+2011.0,KV ,Rhetoric ,107.0,49.0,58.0
+2011.0,KV ,Russian & E European Studies ,2.0,1.0,1.0
+2011.0,KV ,Russian Lang & Literature ,3.0,1.0,2.0
+2011.0,KV ,"Russian, E Eur, Eurasian St ",3.0,2.0,1.0
+2011.0,KV ,Sociology ,281.0,112.0,169.0
+2011.0,KV ,Spanish ,168.0,41.0,127.0
+2011.0,KV ,Speech Communication ,9.0,2.0,7.0
+2011.0,KV ,Statistics ,137.0,84.0,53.0
+2011.0,KV ,Statistics & Computer Science ,16.0,11.0,5.0
+2011.0,KV ,Teaching of French ,2.0,0.0,2.0
+2011.0,KV ,Teaching of German ,1.0,0.0,1.0
+2011.0,KV ,Teaching of Spanish ,26.0,3.0,23.0
+2011.0,KY ,Athletic Training ,17.0,5.0,12.0
+2011.0,KY ,Community Health ,565.0,143.0,420.0
+2011.0,KY ,Health ,139.0,33.0,106.0
+2011.0,KY ,Kinesiology ,581.0,237.0,343.0
+2011.0,KY ,"Recreation, Sport, and Tourism ",325.0,217.0,108.0
+2011.0,KY ,Speech & Hearing Science ,300.0,12.0,288.0
+2011.0,LE ,Aviation Human Factors ,70.0,65.0,5.0
+2011.0,LL ,Social Work ,107.0,11.0,96.0
+2012.0,KL ,Agr & Consumer Economics ,631.0,418.0,213.0
+2012.0,KL ,Agr & Environmental Cmc & Educ ,19.0,4.0,15.0
+2012.0,KL ,Agr Engineering & Agr Science ,4.0,3.0,1.0
+2012.0,KL ,Agric Leadership & Sci Educ ,43.0,22.0,21.0
+2012.0,KL ,Agricultural & Biological Engr ,75.0,56.0,19.0
+2012.0,KL ,Animal Sciences ,498.0,90.0,408.0
+2012.0,KL ,Crop Sciences ,113.0,88.0,25.0
+2012.0,KL ,Food Science & Human Nutrition ,429.0,98.0,331.0
+2012.0,KL ,Horticulture ,34.0,21.0,13.0
+2012.0,KL ,Human Development & Family St ,224.0,20.0,204.0
+2012.0,KL ,Natural Resrcs & Environ Sci ,241.0,126.0,115.0
+2012.0,KL ,Technical Systems Management ,201.0,183.0,18.0
+2012.0,KM ,Accountancy ,962.0,514.0,448.0
+2012.0,KM ,Business Administration ,1.0,1.0,0.0
+2012.0,KM ,Business Process Management ,32.0,19.0,13.0
+2012.0,KM ,Finance ,501.0,341.0,160.0
+2012.0,KM ,Information Sys & Info Tech ,34.0,28.0,6.0
+2012.0,KM ,Management ,111.0,50.0,61.0
+2012.0,KM ,Marketing ,198.0,72.0,126.0
+2012.0,KM ,Supply Chain Management ,58.0,33.0,25.0
+2012.0,KN ,Early Childhood Education ,29.0,1.0,28.0
+2012.0,KN ,Elementary Education ,244.0,19.0,225.0
+2012.0,KN ,Special Education ,80.0,7.0,73.0
+2012.0,KP ,Aerospace Engineering ,356.0,305.0,51.0
+2012.0,KP ,Agricultural & Biological Engr ,114.0,85.0,29.0
+2012.0,KP ,Agricultural Engineering ,1.0,1.0,0.0
+2012.0,KP ,Bioengineering ,187.0,106.0,81.0
+2012.0,KP ,Civil Engineering ,791.0,597.0,194.0
+2012.0,KP ,Computer Engineering ,697.0,635.0,62.0
+2012.0,KP ,Computer Science ,947.0,868.0,79.0
+2012.0,KP ,Electrical Engineering ,1163.0,1021.0,142.0
+2012.0,KP ,Engineering Mechanics ,122.0,110.0,12.0
+2012.0,KP ,Engineering Physics ,177.0,158.0,19.0
+2012.0,KP ,General Engineering ,368.0,270.0,98.0
+2012.0,KP ,Industrial Engineering ,223.0,175.0,48.0
+2012.0,KP ,Materials Science & Engr ,384.0,291.0,93.0
+2012.0,KP ,Mechanical Engineering ,814.0,705.0,108.0
+2012.0,KP ,Nuclear Engineering ,14.0,11.0,3.0
+2012.0,KP ,"Nuclear, Plasma, Radiolgc Engr ",176.0,154.0,22.0
+2012.0,KR ,Architectural Studies ,478.0,272.0,206.0
+2012.0,KR ,Art Education ,44.0,9.0,35.0
+2012.0,KR ,Crafts ,14.0,3.0,11.0
+2012.0,KR ,Dance ,44.0,4.0,40.0
+2012.0,KR ,Graphic Design ,76.0,27.0,49.0
+2012.0,KR ,History of Art ,8.0,2.0,6.0
+2012.0,KR ,Industrial Design ,110.0,55.0,55.0
+2012.0,KR ,Instrumental Music ,75.0,35.0,40.0
+2012.0,KR ,Jazz Performance ,22.0,20.0,2.0
+2012.0,KR ,Landscape Architecture ,58.0,30.0,28.0
+2012.0,KR ,Music ,34.0,15.0,19.0
+2012.0,KR ,Music Composition ,5.0,5.0,0.0
+2012.0,KR ,Music Education ,153.0,67.0,86.0
+2012.0,KR ,Music History ,3.0,1.0,2.0
+2012.0,KR ,New Media ,18.0,8.0,10.0
+2012.0,KR ,Open Studies ,4.0,1.0,3.0
+2012.0,KR ,Painting ,38.0,12.0,26.0
+2012.0,KR ,Photography ,32.0,12.0,20.0
+2012.0,KR ,Sculpture ,8.0,2.0,6.0
+2012.0,KR ,Theatre ,63.0,31.0,32.0
+2012.0,KR ,Urban Planning ,105.0,57.0,48.0
+2012.0,KR ,Voice ,34.0,6.0,28.0
+2012.0,KT ,Advertising ,603.0,169.0,434.0
+2012.0,KT ,Agricultural Communications ,19.0,4.0,15.0
+2012.0,KT ,Broadcast Journalism ,149.0,57.0,92.0
+2012.0,KT ,Media Studies ,2.0,0.0,2.0
+2012.0,KT ,Media and Cinema Studies ,114.0,57.0,56.0
+2012.0,KT ,News-Editorial ,168.0,49.0,119.0
+2012.0,KV ,Actuarial Science ,288.0,169.0,119.0
+2012.0,KV ,African American Studies ,11.0,5.0,6.0
+2012.0,KV ,Anthropology ,166.0,49.0,117.0
+2012.0,KV ,Astronomy ,40.0,26.0,14.0
+2012.0,KV ,Atmospheric Sciences ,72.0,50.0,22.0
+2012.0,KV ,Biochemistry ,160.0,104.0,56.0
+2012.0,KV ,Biology ,11.0,4.0,7.0
+2012.0,KV ,Chemical Engineering ,549.0,373.0,176.0
+2012.0,KV ,Chemistry ,518.0,309.0,209.0
+2012.0,KV ,Classics ,18.0,9.0,9.0
+2012.0,KV ,Communication ,818.0,350.0,467.0
+2012.0,KV ,Comparative Literature ,8.0,6.0,2.0
+2012.0,KV ,E Asian Languages & Cultures ,69.0,33.0,36.0
+2012.0,KV ,"Earth Systems, Env, & Society ",36.0,20.0,16.0
+2012.0,KV ,"Earth, Soc, Env Sustainability ",61.0,35.0,25.0
+2012.0,KV ,"Earth, Society, & Environment ",49.0,27.0,22.0
+2012.0,KV ,Economics ,721.0,503.0,218.0
+2012.0,KV ,English ,504.0,155.0,348.0
+2012.0,KV ,French ,38.0,9.0,29.0
+2012.0,KV ,Gender and Women's Studies ,11.0,3.0,8.0
+2012.0,KV ,Geography ,21.0,17.0,4.0
+2012.0,KV ,Geology ,43.0,27.0,16.0
+2012.0,KV ,Germanic Lang & Lit ,16.0,7.0,9.0
+2012.0,KV ,Global Studies ,268.0,71.0,197.0
+2012.0,KV ,History ,375.0,233.0,140.0
+2012.0,KV ,History of Art ,26.0,1.0,25.0
+2012.0,KV ,Individual Plans of Study ,4.0,2.0,2.0
+2012.0,KV ,Integrative Biology ,443.0,178.0,265.0
+2012.0,KV ,Interdisciplinary ,4.0,0.0,4.0
+2012.0,KV ,International Studies ,6.0,3.0,3.0
+2012.0,KV ,Italian ,3.0,2.0,1.0
+2012.0,KV ,Latin American Studies ,6.0,3.0,3.0
+2012.0,KV ,Latina/Latino Studies ,6.0,2.0,4.0
+2012.0,KV ,Linguistics ,51.0,16.0,35.0
+2012.0,KV ,Math & Computer Science ,86.0,71.0,15.0
+2012.0,KV ,Mathematics ,120.0,54.0,66.0
+2012.0,KV ,Microbiology ,1.0,1.0,0.0
+2012.0,KV ,Molecular and Cellular Biology ,1113.0,569.0,544.0
+2012.0,KV ,Philosophy ,86.0,58.0,27.0
+2012.0,KV ,Physics ,288.0,256.0,32.0
+2012.0,KV ,Political Science ,689.0,445.0,243.0
+2012.0,KV ,Portuguese ,1.0,1.0,0.0
+2012.0,KV ,Psychology ,1254.0,367.0,887.0
+2012.0,KV ,Religion ,14.0,8.0,6.0
+2012.0,KV ,Religious Studies ,2.0,1.0,1.0
+2012.0,KV ,Rhetoric ,93.0,35.0,58.0
+2012.0,KV ,Russian & E European Studies ,1.0,0.0,1.0
+2012.0,KV ,Russian Lang & Literature ,5.0,2.0,3.0
+2012.0,KV ,"Russian, E Eur, Eurasian St ",3.0,2.0,1.0
+2012.0,KV ,Sociology ,241.0,88.0,153.0
+2012.0,KV ,Spanish ,147.0,34.0,113.0
+2012.0,KV ,Speech Communication ,1.0,1.0,0.0
+2012.0,KV ,Statistics ,154.0,107.0,47.0
+2012.0,KV ,Statistics & Computer Science ,20.0,14.0,6.0
+2012.0,KV ,Teaching of French ,8.0,0.0,8.0
+2012.0,KV ,Teaching of German ,1.0,0.0,1.0
+2012.0,KV ,Teaching of Spanish ,18.0,3.0,15.0
+2012.0,KY ,Athletic Training ,1.0,0.0,1.0
+2012.0,KY ,Community Health ,637.0,176.0,461.0
+2012.0,KY ,Health ,153.0,41.0,112.0
+2012.0,KY ,Kinesiology ,568.0,235.0,333.0
+2012.0,KY ,"Recreation, Sport, and Tourism ",316.0,198.0,118.0
+2012.0,KY ,Speech & Hearing Science ,328.0,8.0,320.0
+2012.0,LE ,Aviation Human Factors ,39.0,36.0,3.0
+2012.0,LL ,Social Work ,113.0,10.0,103.0
+2013.0,KL ,Agr & Consumer Economics ,688.0,460.0,228.0
+2013.0,KL ,Agr & Environmental Cmc & Educ ,11.0,2.0,9.0
+2013.0,KL ,Agric Leadership & Sci Educ ,58.0,24.0,34.0
+2013.0,KL ,Agricultural & Biological Engr ,89.0,59.0,30.0
+2013.0,KL ,Animal Sciences ,539.0,92.0,447.0
+2013.0,KL ,Crop Sciences ,139.0,99.0,40.0
+2013.0,KL ,Food Science & Human Nutrition ,425.0,95.0,330.0
+2013.0,KL ,Horticulture ,25.0,10.0,15.0
+2013.0,KL ,Human Development & Family St ,227.0,22.0,205.0
+2013.0,KL ,Natural Resrcs & Environ Sci ,239.0,128.0,111.0
+2013.0,KL ,Technical Systems Management ,210.0,189.0,21.0
+2013.0,KM ,Accountancy ,989.0,517.0,472.0
+2013.0,KM ,Business Process Management ,35.0,19.0,16.0
+2013.0,KM ,Finance ,460.0,310.0,150.0
+2013.0,KM ,Information Sys & Info Tech ,48.0,37.0,11.0
+2013.0,KM ,Management ,109.0,47.0,62.0
+2013.0,KM ,Marketing ,207.0,70.0,137.0
+2013.0,KM ,Supply Chain Management ,70.0,38.0,32.0
+2013.0,KN ,Early Childhood Education ,22.0,1.0,21.0
+2013.0,KN ,Elementary Education ,198.0,20.0,178.0
+2013.0,KN ,Special Education ,82.0,6.0,76.0
+2013.0,KP ,Aerospace Engineering ,410.0,369.0,41.0
+2013.0,KP ,Agricultural & Biological Engr ,93.0,74.0,19.0
+2013.0,KP ,Bioengineering ,208.0,115.0,93.0
+2013.0,KP ,Civil Engineering ,775.0,583.0,192.0
+2013.0,KP ,Computer Engineering ,791.0,721.0,70.0
+2013.0,KP ,Computer Science ,1040.0,925.0,115.0
+2013.0,KP ,Electrical Engineering ,1170.0,1034.0,135.0
+2013.0,KP ,Engineering Mechanics ,97.0,86.0,11.0
+2013.0,KP ,Engineering Physics ,197.0,179.0,18.0
+2013.0,KP ,General Engineering ,320.0,248.0,72.0
+2013.0,KP ,Industrial Engineering ,254.0,201.0,53.0
+2013.0,KP ,Materials Science & Engr ,410.0,316.0,94.0
+2013.0,KP ,Mechanical Engineering ,869.0,758.0,110.0
+2013.0,KP ,Nuclear Engineering ,6.0,5.0,1.0
+2013.0,KP ,"Nuclear, Plasma, Radiolgc Engr ",165.0,140.0,25.0
+2013.0,KR ,Architectural Studies ,443.0,246.0,197.0
+2013.0,KR ,Art Education ,44.0,8.0,36.0
+2013.0,KR ,Crafts ,18.0,1.0,17.0
+2013.0,KR ,Dance ,54.0,9.0,45.0
+2013.0,KR ,Graphic Design ,77.0,25.0,52.0
+2013.0,KR ,History of Art ,10.0,1.0,9.0
+2013.0,KR ,Industrial Design ,108.0,52.0,56.0
+2013.0,KR ,Instrumental Music ,77.0,39.0,38.0
+2013.0,KR ,Jazz Performance ,22.0,19.0,3.0
+2013.0,KR ,Landscape Architecture ,56.0,26.0,30.0
+2013.0,KR ,Music ,34.0,21.0,13.0
+2013.0,KR ,Music Composition ,9.0,8.0,1.0
+2013.0,KR ,Music Education ,165.0,69.0,96.0
+2013.0,KR ,Music History ,2.0,0.0,2.0
+2013.0,KR ,New Media ,20.0,11.0,9.0
+2013.0,KR ,Open Studies ,5.0,0.0,5.0
+2013.0,KR ,Painting ,25.0,9.0,16.0
+2013.0,KR ,Photography ,28.0,9.0,19.0
+2013.0,KR ,Sculpture ,5.0,2.0,3.0
+2013.0,KR ,Theatre ,74.0,29.0,45.0
+2013.0,KR ,Urban Planning ,86.0,40.0,46.0
+2013.0,KR ,Voice ,26.0,5.0,21.0
+2013.0,KT ,Advertising ,579.0,162.0,417.0
+2013.0,KT ,Agricultural Communications ,25.0,5.0,20.0
+2013.0,KT ,Broadcast Journalism ,179.0,61.0,118.0
+2013.0,KT ,Media Studies ,1.0,1.0,0.0
+2013.0,KT ,Media and Cinema Studies ,92.0,42.0,49.0
+2013.0,KT ,News-Editorial ,161.0,50.0,111.0
+2013.0,KV ,Actuarial Science ,329.0,186.0,143.0
+2013.0,KV ,African American Studies ,9.0,4.0,5.0
+2013.0,KV ,American Civilization ,1.0,0.0,1.0
+2013.0,KV ,Anthropology ,140.0,41.0,99.0
+2013.0,KV ,Astronomy ,40.0,28.0,12.0
+2013.0,KV ,Atmospheric Sciences ,70.0,47.0,23.0
+2013.0,KV ,Biochemistry ,162.0,105.0,57.0
+2013.0,KV ,Biology ,9.0,5.0,4.0
+2013.0,KV ,Chemical Engineering ,668.0,467.0,201.0
+2013.0,KV ,Chemistry ,496.0,310.0,186.0
+2013.0,KV ,Classics ,17.0,12.0,5.0
+2013.0,KV ,Communication ,761.0,326.0,434.0
+2013.0,KV ,Comparative Literature ,4.0,2.0,2.0
+2013.0,KV ,Computer Sci & Chemistry ,1.0,0.0,1.0
+2013.0,KV ,Creative Writing ,23.0,12.0,11.0
+2013.0,KV ,E Asian Languages & Cultures ,58.0,23.0,35.0
+2013.0,KV ,"Earth Systems, Env, & Society ",11.0,5.0,6.0
+2013.0,KV ,"Earth, Soc, Env Sustainability ",129.0,66.0,63.0
+2013.0,KV ,"Earth, Society, & Environment ",31.0,13.0,18.0
+2013.0,KV ,Economics ,804.0,576.0,228.0
+2013.0,KV ,English ,419.0,123.0,296.0
+2013.0,KV ,French ,28.0,8.0,20.0
+2013.0,KV ,Gender and Women's Studies ,19.0,2.0,17.0
+2013.0,KV ,Geography ,5.0,5.0,0.0
+2013.0,KV ,Geography & Geographic Info Sc ,18.0,18.0,0.0
+2013.0,KV ,Geology ,67.0,48.0,19.0
+2013.0,KV ,Germanic Lang & Lit ,13.0,7.0,6.0
+2013.0,KV ,Global Studies ,235.0,67.0,168.0
+2013.0,KV ,History ,291.0,183.0,106.0
+2013.0,KV ,History of Art ,28.0,0.0,28.0
+2013.0,KV ,Individual Plans of Study ,6.0,1.0,5.0
+2013.0,KV ,Integrative Biology ,428.0,177.0,251.0
+2013.0,KV ,Interdisciplinary ,3.0,0.0,3.0
+2013.0,KV ,International Studies ,1.0,1.0,0.0
+2013.0,KV ,Italian ,5.0,3.0,2.0
+2013.0,KV ,Latin American Studies ,5.0,1.0,4.0
+2013.0,KV ,Latina/Latino Studies ,5.0,3.0,2.0
+2013.0,KV ,Linguistics ,58.0,19.0,39.0
+2013.0,KV ,Math & Computer Science ,161.0,132.0,29.0
+2013.0,KV ,Mathematics ,143.0,84.0,59.0
+2013.0,KV ,Molecular and Cellular Biology ,1175.0,602.0,573.0
+2013.0,KV ,Philosophy ,68.0,46.0,22.0
+2013.0,KV ,Physics ,329.0,292.0,37.0
+2013.0,KV ,Political Science ,655.0,422.0,233.0
+2013.0,KV ,Portuguese ,1.0,1.0,0.0
+2013.0,KV ,Psychology ,1245.0,383.0,861.0
+2013.0,KV ,Religion ,12.0,9.0,3.0
+2013.0,KV ,Religious Studies ,1.0,0.0,1.0
+2013.0,KV ,Rhetoric ,60.0,19.0,41.0
+2013.0,KV ,Russian & E European Studies ,1.0,0.0,1.0
+2013.0,KV ,Russian Lang & Literature ,6.0,4.0,2.0
+2013.0,KV ,"Russian, E Eur, Eurasian St ",4.0,2.0,2.0
+2013.0,KV ,Sociology ,233.0,94.0,139.0
+2013.0,KV ,Spanish ,147.0,35.0,112.0
+2013.0,KV ,Statistics ,144.0,104.0,40.0
+2013.0,KV ,Statistics & Computer Science ,34.0,26.0,8.0
+2013.0,KV ,Teaching of French ,5.0,0.0,5.0
+2013.0,KV ,Teaching of German ,1.0,0.0,1.0
+2013.0,KV ,Teaching of Spanish ,7.0,1.0,6.0
+2013.0,KY ,Community Health ,633.0,181.0,452.0
+2013.0,KY ,Health ,205.0,49.0,156.0
+2013.0,KY ,Kinesiology ,545.0,228.0,317.0
+2013.0,KY ,"Recreation, Sport, and Tourism ",297.0,190.0,107.0
+2013.0,KY ,Speech & Hearing Science ,299.0,9.0,290.0
+2013.0,LE ,Aviation Human Factors ,28.0,22.0,6.0
+2013.0,LL ,Social Work ,143.0,17.0,126.0
+2014.0,KL ,Agr & Consumer Economics ,684.0,457.0,227.0
+2014.0,KL ,Agr & Environmental Cmc & Educ ,3.0,0.0,3.0
+2014.0,KL ,Agr Engineering & Agr Science ,1.0,1.0,0.0
+2014.0,KL ,Agric Leadership & Sci Educ ,55.0,22.0,33.0
+2014.0,KL ,Agricultural & Biological Engr ,100.0,68.0,32.0
+2014.0,KL ,Animal Sciences ,534.0,89.0,445.0
+2014.0,KL ,Crop Sciences ,151.0,97.0,54.0
+2014.0,KL ,Food Science & Human Nutrition ,412.0,98.0,314.0
+2014.0,KL ,Horticulture ,31.0,8.0,23.0
+2014.0,KL ,Human Development & Family St ,187.0,14.0,173.0
+2014.0,KL ,Natural Resrcs & Environ Sci ,232.0,115.0,117.0
+2014.0,KL ,Technical Systems Management ,207.0,193.0,14.0
+2014.0,KM ,Accountancy ,1023.0,533.0,490.0
+2014.0,KM ,Business Process Management ,29.0,14.0,15.0
+2014.0,KM ,Finance ,485.0,327.0,158.0
+2014.0,KM ,Information Sys & Info Tech ,51.0,37.0,14.0
+2014.0,KM ,Management ,103.0,45.0,58.0
+2014.0,KM ,Marketing ,221.0,73.0,148.0
+2014.0,KM ,Supply Chain Management ,90.0,50.0,40.0
+2014.0,KN ,Early Childhood Education ,21.0,0.0,21.0
+2014.0,KN ,Elementary Education ,208.0,15.0,193.0
+2014.0,KN ,Special Education ,89.0,11.0,78.0
+2014.0,KP ,Aerospace Engineering ,478.0,434.0,44.0
+2014.0,KP ,Agricultural & Biological Engr ,83.0,66.0,17.0
+2014.0,KP ,Bioengineering ,246.0,134.0,112.0
+2014.0,KP ,Civil Engineering ,712.0,536.0,176.0
+2014.0,KP ,Computer Engineering ,905.0,813.0,92.0
+2014.0,KP ,Computer Science ,1115.0,936.0,179.0
+2014.0,KP ,Electrical Engineering ,1109.0,973.0,135.0
+2014.0,KP ,Engineering Mechanics ,93.0,85.0,8.0
+2014.0,KP ,Engineering Physics ,231.0,210.0,21.0
+2014.0,KP ,General Engineering ,271.0,211.0,60.0
+2014.0,KP ,Industrial Engineering ,292.0,230.0,62.0
+2014.0,KP ,Materials Science & Engr ,409.0,296.0,113.0
+2014.0,KP ,Mechanical Engineering ,886.0,754.0,132.0
+2014.0,KP ,"Nuclear, Plasma, Radiolgc Engr ",148.0,122.0,26.0
+2014.0,KR ,Architectural Studies ,431.0,237.0,194.0
+2014.0,KR ,Art Education ,30.0,4.0,26.0
+2014.0,KR ,Crafts ,16.0,0.0,16.0
+2014.0,KR ,Dance ,57.0,13.0,44.0
+2014.0,KR ,Graphic Design ,81.0,19.0,62.0
+2014.0,KR ,History of Art ,4.0,0.0,4.0
+2014.0,KR ,Industrial Design ,113.0,54.0,59.0
+2014.0,KR ,Instrumental Music ,71.0,33.0,38.0
+2014.0,KR ,Jazz Performance ,27.0,24.0,3.0
+2014.0,KR ,Landscape Architecture ,69.0,32.0,37.0
+2014.0,KR ,Music ,27.0,16.0,11.0
+2014.0,KR ,Music Composition ,8.0,7.0,1.0
+2014.0,KR ,Music Education ,161.0,67.0,94.0
+2014.0,KR ,Music History ,3.0,0.0,3.0
+2014.0,KR ,New Media ,17.0,11.0,6.0
+2014.0,KR ,Open Studies ,3.0,0.0,3.0
+2014.0,KR ,Painting ,21.0,4.0,17.0
+2014.0,KR ,Photography ,16.0,3.0,13.0
+2014.0,KR ,Sculpture ,3.0,2.0,1.0
+2014.0,KR ,Theatre ,57.0,24.0,33.0
+2014.0,KR ,Urban Planning ,82.0,40.0,42.0
+2014.0,KR ,Voice ,24.0,6.0,18.0
+2014.0,KT ,Advertising ,579.0,178.0,401.0
+2014.0,KT ,Agricultural Communications ,39.0,8.0,31.0
+2014.0,KT ,Broadcast Journalism ,144.0,51.0,93.0
+2014.0,KT ,Journalism ,80.0,24.0,56.0
+2014.0,KT ,Media and Cinema Studies ,98.0,44.0,54.0
+2014.0,KT ,News-Editorial ,120.0,34.0,86.0
+2014.0,KV ,Actuarial Science ,385.0,218.0,167.0
+2014.0,KV ,African American Studies ,9.0,4.0,5.0
+2014.0,KV ,Anthropology ,117.0,29.0,88.0
+2014.0,KV ,Astronomy ,55.0,39.0,16.0
+2014.0,KV ,Atmospheric Sciences ,75.0,47.0,28.0
+2014.0,KV ,Biochemistry ,140.0,83.0,57.0
+2014.0,KV ,Biology ,6.0,3.0,3.0
+2014.0,KV ,Chemical Engineering ,706.0,507.0,199.0
+2014.0,KV ,Chemistry ,540.0,331.0,209.0
+2014.0,KV ,Classics ,15.0,11.0,4.0
+2014.0,KV ,Communication ,771.0,341.0,429.0
+2014.0,KV ,Comparative Literature ,4.0,2.0,2.0
+2014.0,KV ,Computer Sci & Anthropology ,9.0,6.0,3.0
+2014.0,KV ,Computer Sci & Astronomy ,8.0,6.0,2.0
+2014.0,KV ,Computer Sci & Chemistry ,15.0,10.0,5.0
+2014.0,KV ,Computer Sci & Linguistics ,8.0,5.0,3.0
+2014.0,KV ,Creative Writing ,50.0,17.0,33.0
+2014.0,KV ,E Asian Languages & Cultures ,58.0,23.0,35.0
+2014.0,KV ,"Earth Systems, Env, & Society ",1.0,1.0,0.0
+2014.0,KV ,"Earth, Soc, Env Sustainability ",141.0,64.0,77.0
+2014.0,KV ,"Earth, Society, & Environment ",8.0,2.0,6.0
+2014.0,KV ,Economics ,868.0,613.0,255.0
+2014.0,KV ,English ,385.0,109.0,276.0
+2014.0,KV ,French ,19.0,6.0,13.0
+2014.0,KV ,Gender and Women's Studies ,11.0,3.0,8.0
+2014.0,KV ,Geography ,4.0,3.0,1.0
+2014.0,KV ,Geography & Geographic Info Sc ,29.0,25.0,4.0
+2014.0,KV ,Geology ,77.0,56.0,21.0
+2014.0,KV ,Germanic Lang & Lit ,10.0,5.0,5.0
+2014.0,KV ,Global Studies ,218.0,58.0,160.0
+2014.0,KV ,History ,237.0,147.0,90.0
+2014.0,KV ,History of Art ,21.0,1.0,20.0
+2014.0,KV ,Individual Plans of Study ,7.0,2.0,5.0
+2014.0,KV ,Integrative Biology ,408.0,169.0,239.0
+2014.0,KV ,Interdisciplinary ,4.0,1.0,3.0
+2014.0,KV ,Italian ,2.0,2.0,0.0
+2014.0,KV ,Latin American Studies ,3.0,2.0,1.0
+2014.0,KV ,Latina/Latino Studies ,5.0,1.0,4.0
+2014.0,KV ,Linguistics ,66.0,23.0,43.0
+2014.0,KV ,Math & Computer Science ,210.0,174.0,36.0
+2014.0,KV ,Mathematics ,138.0,93.0,45.0
+2014.0,KV ,Molecular and Cellular Biology ,1095.0,552.0,543.0
+2014.0,KV ,Philosophy ,60.0,44.0,16.0
+2014.0,KV ,Physics ,402.0,353.0,48.0
+2014.0,KV ,Political Science ,640.0,390.0,250.0
+2014.0,KV ,Portuguese ,3.0,1.0,2.0
+2014.0,KV ,Psychology ,1261.0,372.0,889.0
+2014.0,KV ,Religion ,6.0,3.0,3.0
+2014.0,KV ,Rhetoric ,34.0,13.0,21.0
+2014.0,KV ,Russian Lang & Literature ,5.0,3.0,2.0
+2014.0,KV ,"Russian, E Eur, Eurasian St ",11.0,5.0,6.0
+2014.0,KV ,Sociology ,200.0,82.0,118.0
+2014.0,KV ,Spanish ,88.0,19.0,69.0
+2014.0,KV ,Speech Communication ,1.0,0.0,1.0
+2014.0,KV ,Statistics ,142.0,93.0,49.0
+2014.0,KV ,Statistics & Computer Science ,55.0,46.0,9.0
+2014.0,KV ,Teaching of French ,3.0,0.0,3.0
+2014.0,KV ,Teaching of Latin ,1.0,1.0,0.0
+2014.0,KV ,Teaching of Spanish ,16.0,2.0,14.0
+2014.0,KY ,Community Health ,610.0,158.0,452.0
+2014.0,KY ,Health ,27.0,9.0,18.0
+2014.0,KY ,Interdisciplinary Health Sci ,202.0,45.0,157.0
+2014.0,KY ,Kinesiology ,561.0,231.0,330.0
+2014.0,KY ,"Recreation, Sport, and Tourism ",300.0,200.0,100.0
+2014.0,KY ,Speech & Hearing Science ,274.0,6.0,268.0
+2014.0,LE ,Aviation Human Factors ,3.0,3.0,0.0
+2014.0,LL ,Social Work ,173.0,23.0,150.0
+2015.0,KL ,Agr & Consumer Economics ,669.0,445.0,224.0
+2015.0,KL ,Agr Engineering & Agr Science ,1.0,1.0,0.0
+2015.0,KL ,Agric Leadership & Sci Educ ,55.0,21.0,34.0
+2015.0,KL ,Agricultural & Biological Engr ,98.0,64.0,34.0
+2015.0,KL ,Agriculture ,1.0,1.0,0.0
+2015.0,KL ,Animal Sciences ,523.0,83.0,440.0
+2015.0,KL ,Crop Sciences ,158.0,99.0,59.0
+2015.0,KL ,Food Science & Human Nutrition ,392.0,83.0,309.0
+2015.0,KL ,Horticulture ,24.0,6.0,18.0
+2015.0,KL ,Human Development & Family St ,198.0,24.0,174.0
+2015.0,KL ,Natural Resrcs & Environ Sci ,235.0,124.0,111.0
+2015.0,KL ,Technical Systems Management ,193.0,173.0,20.0
+2015.0,KM ,Accountancy ,945.0,495.0,450.0
+2015.0,KM ,Business Process Management ,36.0,20.0,16.0
+2015.0,KM ,Finance ,550.0,382.0,168.0
+2015.0,KM ,Information Sys & Info Tech ,47.0,28.0,19.0
+2015.0,KM ,Management ,100.0,38.0,62.0
+2015.0,KM ,Marketing ,221.0,91.0,130.0
+2015.0,KM ,Supply Chain Management ,92.0,38.0,54.0
+2015.0,KN ,Early Childhood Education ,60.0,2.0,58.0
+2015.0,KN ,Elementary Education ,366.0,24.0,342.0
+2015.0,KN ,Learning and Education Studies ,27.0,5.0,22.0
+2015.0,KN ,Special Education ,125.0,10.0,115.0
+2015.0,KP ,Aerospace Engineering ,513.0,462.0,51.0
+2015.0,KP ,Agricultural & Biological Engr ,63.0,47.0,16.0
+2015.0,KP ,Bioengineering ,249.0,130.0,119.0
+2015.0,KP ,Civil Engineering ,730.0,536.0,194.0
+2015.0,KP ,Computer Engineering ,1062.0,952.0,109.0
+2015.0,KP ,Computer Science ,1113.0,893.0,220.0
+2015.0,KP ,Electrical Engineering ,1146.0,1002.0,144.0
+2015.0,KP ,Engineering Mechanics ,112.0,101.0,11.0
+2015.0,KP ,Engineering Physics ,248.0,218.0,30.0
+2015.0,KP ,General Engineering ,230.0,172.0,58.0
+2015.0,KP ,Industrial Engineering ,277.0,201.0,76.0
+2015.0,KP ,Materials Science & Engr ,395.0,279.0,116.0
+2015.0,KP ,Mechanical Engineering ,893.0,754.0,139.0
+2015.0,KP ,"Nuclear, Plasma, Radiolgc Engr ",155.0,132.0,23.0
+2015.0,KR ,Architectural Studies ,398.0,218.0,180.0
+2015.0,KR ,Art Education ,25.0,4.0,21.0
+2015.0,KR ,Crafts ,16.0,1.0,14.0
+2015.0,KR ,Dance ,58.0,10.0,48.0
+2015.0,KR ,Graphic Design ,94.0,19.0,75.0
+2015.0,KR ,History of Art ,5.0,0.0,5.0
+2015.0,KR ,Industrial Design ,132.0,53.0,79.0
+2015.0,KR ,Instrumental Music ,76.0,33.0,43.0
+2015.0,KR ,Jazz Performance ,31.0,30.0,1.0
+2015.0,KR ,Landscape Architecture ,63.0,27.0,36.0
+2015.0,KR ,Music ,33.0,23.0,10.0
+2015.0,KR ,Music Composition ,8.0,7.0,1.0
+2015.0,KR ,Music Education ,168.0,67.0,101.0
+2015.0,KR ,Musicology ,3.0,1.0,2.0
+2015.0,KR ,New Media ,17.0,10.0,7.0
+2015.0,KR ,Open Studies ,3.0,0.0,3.0
+2015.0,KR ,Painting ,20.0,4.0,16.0
+2015.0,KR ,Photography ,9.0,1.0,8.0
+2015.0,KR ,Sculpture ,1.0,0.0,1.0
+2015.0,KR ,Theatre ,55.0,27.0,28.0
+2015.0,KR ,Urban Planning ,89.0,41.0,48.0
+2015.0,KR ,Voice ,28.0,6.0,22.0
+2015.0,KT ,Advertising ,562.0,182.0,380.0
+2015.0,KT ,Agricultural Communications ,41.0,8.0,33.0
+2015.0,KT ,Broadcast Journalism ,100.0,35.0,65.0
+2015.0,KT ,Communications ,1.0,1.0,0.0
+2015.0,KT ,Journalism ,131.0,49.0,82.0
+2015.0,KT ,Media and Cinema Studies ,87.0,34.0,53.0
+2015.0,KT ,News-Editorial ,77.0,24.0,53.0
+2015.0,KV ,Actuarial Science ,389.0,224.0,164.0
+2015.0,KV ,African American Studies ,11.0,3.0,8.0
+2015.0,KV ,Anthropology ,85.0,27.0,58.0
+2015.0,KV ,Astronomy ,55.0,35.0,20.0
+2015.0,KV ,Atmospheric Sciences ,65.0,36.0,29.0
+2015.0,KV ,Biochemistry ,166.0,86.0,80.0
+2015.0,KV ,Biology ,6.0,3.0,3.0
+2015.0,KV ,Chemical Engineering ,681.0,498.0,183.0
+2015.0,KV ,Chemistry ,574.0,337.0,237.0
+2015.0,KV ,Classics ,12.0,6.0,6.0
+2015.0,KV ,Communication ,732.0,296.0,436.0
+2015.0,KV ,Comparative Literature ,5.0,2.0,3.0
+2015.0,KV ,Computer Sci & Anthropology ,11.0,8.0,3.0
+2015.0,KV ,Computer Sci & Astronomy ,18.0,14.0,4.0
+2015.0,KV ,Computer Sci & Chemistry ,27.0,18.0,9.0
+2015.0,KV ,Computer Sci & Linguistics ,27.0,19.0,8.0
+2015.0,KV ,Creative Writing ,74.0,24.0,50.0
+2015.0,KV ,E Asian Languages & Cultures ,45.0,15.0,30.0
+2015.0,KV ,"Earth, Soc, Env Sustainability ",152.0,70.0,82.0
+2015.0,KV ,Economics ,894.0,654.0,240.0
+2015.0,KV ,English ,343.0,99.0,244.0
+2015.0,KV ,French ,17.0,7.0,10.0
+2015.0,KV ,Gender and Women's Studies ,13.0,2.0,11.0
+2015.0,KV ,Geography & Geographic Info Sc ,37.0,27.0,10.0
+2015.0,KV ,Geology ,76.0,59.0,17.0
+2015.0,KV ,Germanic Lang & Lit ,10.0,5.0,5.0
+2015.0,KV ,Global Studies ,202.0,51.0,151.0
+2015.0,KV ,History ,205.0,121.0,84.0
+2015.0,KV ,History of Art ,18.0,1.0,17.0
+2015.0,KV ,Individual Plans of Study ,7.0,3.0,4.0
+2015.0,KV ,Integrative Biology ,402.0,153.0,249.0
+2015.0,KV ,Interdisciplinary ,4.0,2.0,2.0
+2015.0,KV ,Italian ,2.0,2.0,0.0
+2015.0,KV ,Latin American Studies ,1.0,1.0,0.0
+2015.0,KV ,Latina/Latino Studies ,4.0,2.0,2.0
+2015.0,KV ,Linguistics ,71.0,25.0,46.0
+2015.0,KV ,Math & Computer Science ,263.0,216.0,47.0
+2015.0,KV ,Mathematics ,153.0,90.0,63.0
+2015.0,KV ,Molecular and Cellular Biology ,1041.0,517.0,524.0
+2015.0,KV ,Philosophy ,61.0,42.0,19.0
+2015.0,KV ,Physics ,386.0,332.0,54.0
+2015.0,KV ,Political Science ,583.0,343.0,240.0
+2015.0,KV ,Portuguese ,1.0,0.0,1.0
+2015.0,KV ,Psychology ,1333.0,383.0,950.0
+2015.0,KV ,Religion ,7.0,4.0,3.0
+2015.0,KV ,Rhetoric ,8.0,3.0,5.0
+2015.0,KV ,Russian Lang & Literature ,2.0,1.0,1.0
+2015.0,KV ,"Russian, E Eur, Eurasian St ",4.0,1.0,3.0
+2015.0,KV ,Slavic Studies ,1.0,1.0,0.0
+2015.0,KV ,Sociology ,191.0,88.0,103.0
+2015.0,KV ,Spanish ,76.0,17.0,59.0
+2015.0,KV ,Speech Communication ,1.0,1.0,0.0
+2015.0,KV ,Statistics ,190.0,118.0,72.0
+2015.0,KV ,Statistics & Computer Science ,107.0,86.0,21.0
+2015.0,KV ,Teaching of French ,2.0,0.0,2.0
+2015.0,KV ,Teaching of German ,1.0,0.0,1.0
+2015.0,KV ,Teaching of Spanish ,10.0,0.0,10.0
+2015.0,KY ,Community Health ,581.0,141.0,440.0
+2015.0,KY ,Health ,4.0,1.0,3.0
+2015.0,KY ,Interdisciplinary Health Sci ,200.0,40.0,160.0
+2015.0,KY ,Kinesiology ,547.0,227.0,320.0
+2015.0,KY ,"Recreation, Sport, and Tourism ",265.0,189.0,76.0
+2015.0,KY ,Speech & Hearing Science ,286.0,13.0,273.0
+2015.0,LL ,Social Work ,218.0,22.0,196.0
