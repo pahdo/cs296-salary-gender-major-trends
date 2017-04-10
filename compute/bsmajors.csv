@@ -1,0 +1,1372 @@
+Fall,College,Major Name,Total,Male,Female
+2005,KL,Agr & Environmental Cmc & Educ,103,30,73
+2005,KL,Agr Engineering & Agr Science,37,34,3
+2005,KL,"Agribusiness, Farm & Financial",317,232,83
+2005,KL,Animal Sciences,507,126,381
+2005,KL,Consumer and Textile Marketing,54,2,52
+2005,KL,Crop Sciences,94,69,24
+2005,KL,Food Science & Human Nutrition,394,99,295
+2005,KL,Forestry,1,1,0
+2005,KL,Horticulture,72,48,24
+2005,KL,Human Development & Family St,216,13,202
+2005,KL,"Intl, Resource, Consumer Econ",174,105,69
+2005,KL,Natural Resrcs & Environ Sci,196,122,74
+2005,KL,Technical Systems Management,92,86,6
+2005,KM,Accountancy,933,524,408
+2005,KM,Business Administration,844,428,416
+2005,KM,Economics,16,12,4
+2005,KM,Finance,803,571,231
+2005,KN,Early Childhood Education,58,2,56
+2005,KN,Education General,1,1,0
+2005,KN,Elementary Education,302,20,282
+2005,KN,Special Education,76,4,72
+2005,KP,Aerospace Engineering,349,297,52
+2005,KP,Agricultural Engineering,58,50,8
+2005,KP,Bioengineering,52,37,15
+2005,KP,Civil Engineering,493,393,100
+2005,KP,Computer Engineering,563,520,42
+2005,KP,Computer Science,650,589,59
+2005,KP,Electrical Engineering,855,748,107
+2005,KP,Engineering Mechanics,78,63,15
+2005,KP,Engineering Physics,101,87,14
+2005,KP,General Engineering,601,489,112
+2005,KP,Industrial Engineering,66,43,23
+2005,KP,Materials Science & Engr,212,165,47
+2005,KP,Mechanical Engineering,829,733,93
+2005,KP,Nuclear Engineering,95,84,11
+2005,KR,Architectural Studies,534,308,226
+2005,KR,Art Education,78,10,68
+2005,KR,Crafts,22,7,15
+2005,KR,Dance,54,6,48
+2005,KR,Graphic Design,75,21,54
+2005,KR,History of Art,22,3,19
+2005,KR,Industrial Design,98,47,51
+2005,KR,Instrumental Music,122,52,70
+2005,KR,Landscape Architecture,114,80,34
+2005,KR,Music,3,2,1
+2005,KR,Music Composition,9,8,1
+2005,KR,Music Education,201,82,119
+2005,KR,Music History,1,0,1
+2005,KR,Open Studies,20,15,5
+2005,KR,Painting,48,16,32
+2005,KR,Photography,33,11,22
+2005,KR,Sculpture,15,8,7
+2005,KR,Theatre,143,67,76
+2005,KR,Urban Planning,129,71,58
+2005,KR,Voice,19,3,16
+2005,KT,Advertising,235,59,176
+2005,KT,Broadcast Journalism,79,30,49
+2005,KT,Media Studies,122,34,88
+2005,KT,News-Editorial,125,48,77
+2005,KV,Actuarial Science,249,167,82
+2005,KV,Anthropology,144,49,95
+2005,KV,Astronomy,41,26,15
+2005,KV,Biochemistry,282,148,133
+2005,KV,Bioengineering,1,1,0
+2005,KV,Biology,41,20,21
+2005,KV,Chemical Engineering,294,187,106
+2005,KV,Chemistry,468,251,217
+2005,KV,Classics,26,12,14
+2005,KV,Comparative Literature,14,3,11
+2005,KV,E Asian Languages & Cultures,45,30,15
+2005,KV,Economics,678,522,156
+2005,KV,English,921,280,640
+2005,KV,Finance,162,117,45
+2005,KV,French,67,17,50
+2005,KV,Geography,45,38,7
+2005,KV,Geology,57,36,21
+2005,KV,Germanic Lang & Lit,23,13,10
+2005,KV,History,570,352,217
+2005,KV,History of Art,30,2,28
+2005,KV,Humanities,7,5,2
+2005,KV,Individual Plans of Study,5,2,3
+2005,KV,Integrative Biology,251,113,138
+2005,KV,Interdisciplinary,38,18,20
+2005,KV,International Studies,317,92,225
+2005,KV,Italian,7,1,6
+2005,KV,Latin American Studies,6,3,3
+2005,KV,Linguistics,43,20,23
+2005,KV,Math & Computer Science,128,117,10
+2005,KV,Mathematics,357,204,153
+2005,KV,Molecular & Integrative Physi,2,1,1
+2005,KV,Molecular and Cellular Biology,794,324,469
+2005,KV,Music,17,10,7
+2005,KV,Philosophy,97,74,23
+2005,KV,Physics,187,145,42
+2005,KV,Political Science,1015,618,394
+2005,KV,Portuguese,1,1,0
+2005,KV,Psychology,1199,319,880
+2005,KV,Religious Studies,29,17,12
+2005,KV,Rhetoric,134,72,62
+2005,KV,Russian & E European Studies,4,4,0
+2005,KV,Russian Lang & Literature,4,1,3
+2005,KV,Sociology,429,139,290
+2005,KV,Spanish,267,82,185
+2005,KV,Speech Communication,427,181,246
+2005,KV,Statistics,37,27,10
+2005,KV,Statistics & Computer Science,10,9,1
+2005,KV,Teaching of French,8,2,6
+2005,KV,Teaching of German,2,1,1
+2005,KV,Teaching of Spanish,27,3,24
+2005,KY,Community Health,415,94,321
+2005,KY,Kinesiology,600,241,359
+2005,KY,Leisure Studies,381,240,140
+2005,KY,"Recreation, Sport, and Tourism",10,8,2
+2005,KY,Speech & Hearing Science,229,9,220
+2005,LE,Aviation Human Factors,183,168,15
+2006,KL,Agr & Consumer Economics,250,154,96
+2006,KL,Agr & Environmental Cmc & Educ,98,24,74
+2006,KL,Agr Engineering & Agr Science,42,38,4
+2006,KL,"Agribusiness, Farm & Financial",208,158,49
+2006,KL,Animal Sciences,526,142,383
+2006,KL,Consumer and Textile Marketing,31,1,30
+2006,KL,Crop Sciences,99,72,27
+2006,KL,Food Science & Human Nutrition,369,92,277
+2006,KL,Horticulture,72,47,25
+2006,KL,Human Development & Family St,222,20,202
+2006,KL,"Intl, Resource, Consumer Econ",116,68,48
+2006,KL,Natural Resrcs & Environ Sci,211,121,90
+2006,KL,Technical Systems Management,73,68,4
+2006,KM,Accountancy,886,484,398
+2006,KM,Business Administration,646,309,337
+2006,KM,Economics,7,6,1
+2006,KM,Finance,643,481,161
+2006,KN,Early Childhood Education,52,0,52
+2006,KN,Elementary Education,299,18,280
+2006,KN,Special Education,69,6,63
+2006,KP,Aero & Astro Engineering,1,1,0
+2006,KP,Aerospace Engineering,368,319,49
+2006,KP,Agricultural Engineering,49,40,9
+2006,KP,Bioengineering,80,51,29
+2006,KP,Civil Engineering,523,412,111
+2006,KP,Computer Engineering,477,439,36
+2006,KP,Computer Science,622,561,59
+2006,KP,Electrical Engineering,798,711,87
+2006,KP,Engineering Mechanics,62,47,15
+2006,KP,Engineering Physics,124,110,14
+2006,KP,General Engineering,561,452,109
+2006,KP,Industrial Engineering,69,48,21
+2006,KP,Materials Science & Engr,230,174,56
+2006,KP,Mechanical Engineering,843,747,94
+2006,KP,Nuclear Engineering,99,88,11
+2006,KR,Architectural Studies,525,310,215
+2006,KR,Art Education,79,11,68
+2006,KR,Crafts,23,6,17
+2006,KR,Dance,56,5,51
+2006,KR,Graphic Design,75,26,49
+2006,KR,History of Art,16,0,16
+2006,KR,Industrial Design,100,54,46
+2006,KR,Instrumental Music,136,61,74
+2006,KR,Landscape Architecture,113,71,42
+2006,KR,Music,18,11,7
+2006,KR,Music Composition,12,10,2
+2006,KR,Music Education,223,99,124
+2006,KR,Music History,2,1,1
+2006,KR,Open Studies,22,18,4
+2006,KR,Painting,46,17,29
+2006,KR,Photography,32,13,19
+2006,KR,Sculpture,12,7,5
+2006,KR,Theatre,96,45,51
+2006,KR,Urban Planning,130,81,49
+2006,KR,Voice,21,4,17
+2006,KT,Advertising,338,90,248
+2006,KT,Broadcast Journalism,84,32,52
+2006,KT,Media Studies,128,44,84
+2006,KT,News-Editorial,144,55,89
+2006,KV,Actuarial Science,281,189,92
+2006,KV,American Civilization,1,1,0
+2006,KV,Anthropology,165,50,115
+2006,KV,Astronomy,37,23,14
+2006,KV,Biochemistry,237,122,115
+2006,KV,Biology,26,8,18
+2006,KV,Cell and Structural Biology,1,1,0
+2006,KV,Chemical Engineering,328,208,119
+2006,KV,Chemistry,540,291,248
+2006,KV,Classics,31,19,12
+2006,KV,Comparative Literature,18,5,13
+2006,KV,E Asian Languages & Cultures,63,40,23
+2006,KV,Economics,786,583,200
+2006,KV,English,930,288,640
+2006,KV,Finance,188,131,57
+2006,KV,French,76,15,61
+2006,KV,Geography,43,32,11
+2006,KV,Geology,58,37,21
+2006,KV,Germanic Lang & Lit,32,19,13
+2006,KV,History,565,349,215
+2006,KV,History of Art,32,4,28
+2006,KV,Humanities,8,3,5
+2006,KV,Individual Plans of Study,9,7,2
+2006,KV,Integrative Biology,301,140,161
+2006,KV,Interdisciplinary,39,20,19
+2006,KV,International Studies,356,102,254
+2006,KV,Italian,7,1,6
+2006,KV,Latin American Studies,7,5,2
+2006,KV,Linguistics,59,27,32
+2006,KV,Math & Computer Science,120,111,8
+2006,KV,Mathematics,368,198,170
+2006,KV,Molecular and Cellular Biology,943,435,506
+2006,KV,Music,8,3,5
+2006,KV,Philosophy,91,71,20
+2006,KV,Physics,177,141,35
+2006,KV,Political Science,1054,599,454
+2006,KV,Psychology,1264,346,917
+2006,KV,Religious Studies,23,15,8
+2006,KV,Rhetoric,109,51,58
+2006,KV,Russian & E European Studies,5,4,1
+2006,KV,Russian Lang & Literature,6,2,4
+2006,KV,Sociology,462,163,298
+2006,KV,Spanish,315,81,234
+2006,KV,Speech Communication,526,233,293
+2006,KV,Statistics,36,22,14
+2006,KV,Statistics & Computer Science,11,9,2
+2006,KV,Teaching of French,5,2,3
+2006,KV,Teaching of German,4,1,3
+2006,KV,Teaching of Spanish,30,3,27
+2006,KY,Community Health,464,97,367
+2006,KY,Kinesiology,610,229,381
+2006,KY,Leisure Studies,132,89,43
+2006,KY,"Recreation, Sport, and Tourism",240,145,94
+2006,KY,Speech & Hearing Science,252,8,243
+2006,LE,Aviation Human Factors,164,148,16
+2007,KL,Agr & Consumer Economics,503,340,163
+2007,KL,Agr & Environmental Cmc & Educ,90,21,69
+2007,KL,Agr Engineering & Agr Science,44,38,6
+2007,KL,"Agribusiness, Farm & Financial",100,79,20
+2007,KL,Animal Sciences,539,135,403
+2007,KL,Consumer and Textile Marketing,9,1,8
+2007,KL,Crop Sciences,85,61,24
+2007,KL,Food Science & Human Nutrition,354,85,269
+2007,KL,Horticulture,62,38,24
+2007,KL,Human Development & Family St,192,14,178
+2007,KL,"Intl, Resource, Consumer Econ",55,30,25
+2007,KL,Natural Resrcs & Environ Sci,197,95,101
+2007,KL,Technical Systems Management,96,92,3
+2007,KM,Accountancy,773,422,347
+2007,KM,Business Administration,410,189,220
+2007,KM,Business Process Management,2,1,1
+2007,KM,Economics,1,1,0
+2007,KM,Finance,552,407,144
+2007,KM,Management,1,0,1
+2007,KM,Marketing,3,1,2
+2007,KN,Early Childhood Education,60,0,59
+2007,KN,Elementary Education,267,20,247
+2007,KN,Special Education,69,8,61
+2007,KP,Aerospace Engineering,396,347,49
+2007,KP,Agricultural Engineering,46,39,7
+2007,KP,Bioengineering,107,64,43
+2007,KP,Civil Engineering,544,415,128
+2007,KP,Computer Engineering,434,397,35
+2007,KP,Computer Science,596,529,65
+2007,KP,Electrical Engineering,767,685,82
+2007,KP,Engineering Mechanics,49,37,12
+2007,KP,Engineering Physics,134,121,13
+2007,KP,General Engineering,587,470,116
+2007,KP,Industrial Engineering,67,46,21
+2007,KP,Materials Science & Engr,238,185,53
+2007,KP,Mechanical Engineering,858,756,100
+2007,KP,Nuclear Engineering,105,86,19
+2007,KR,Architectural Studies,547,300,247
+2007,KR,Art Education,77,10,67
+2007,KR,Crafts,22,5,17
+2007,KR,Dance,66,8,58
+2007,KR,Graphic Design,78,26,52
+2007,KR,History of Art,8,0,8
+2007,KR,Industrial Design,102,56,46
+2007,KR,Instrumental Music,118,55,63
+2007,KR,Jazz Performance,21,20,1
+2007,KR,Landscape Architecture,111,76,35
+2007,KR,Music,17,12,5
+2007,KR,Music Composition,8,7,1
+2007,KR,Music Education,225,110,115
+2007,KR,Music History,2,1,1
+2007,KR,Open Studies,9,5,4
+2007,KR,Painting,41,13,28
+2007,KR,Photography,35,15,20
+2007,KR,Sculpture,12,4,8
+2007,KR,Theatre,74,37,37
+2007,KR,Urban Planning,112,69,43
+2007,KR,Voice,25,5,20
+2007,KT,Advertising,356,90,266
+2007,KT,Broadcast Journalism,75,25,50
+2007,KT,Media Studies,95,31,64
+2007,KT,News-Editorial,143,46,97
+2007,KV,Actuarial Science,281,199,82
+2007,KV,Anthropology,159,53,106
+2007,KV,Astronomy,38,26,12
+2007,KV,Biochemistry,175,99,76
+2007,KV,Bioengineering,1,0,1
+2007,KV,Biology,31,8,23
+2007,KV,Chemical Engineering,372,250,122
+2007,KV,Chemistry,461,238,223
+2007,KV,Classics,27,14,13
+2007,KV,Comparative Literature,18,5,13
+2007,KV,E Asian Languages & Cultures,64,35,29
+2007,KV,"Earth Systems, Env, & Society",1,1,0
+2007,KV,Economics,760,568,188
+2007,KV,English,903,274,626
+2007,KV,Finance,93,60,33
+2007,KV,French,63,12,51
+2007,KV,Geography,50,36,14
+2007,KV,Geology,59,39,20
+2007,KV,Germanic Lang & Lit,32,14,17
+2007,KV,History,592,378,212
+2007,KV,History of Art,34,5,29
+2007,KV,Humanities,3,3,0
+2007,KV,Individual Plans of Study,6,2,4
+2007,KV,Integrative Biology,292,138,154
+2007,KV,Interdisciplinary,49,22,27
+2007,KV,International Studies,369,108,261
+2007,KV,Italian,7,4,3
+2007,KV,Latin American Studies,7,4,3
+2007,KV,Linguistics,74,31,43
+2007,KV,Math & Computer Science,106,99,7
+2007,KV,Mathematics,350,178,172
+2007,KV,Molecular and Cellular Biology,916,454,461
+2007,KV,Music,1,1,0
+2007,KV,Philosophy,84,66,18
+2007,KV,Physics,164,139,24
+2007,KV,Political Science,1063,616,445
+2007,KV,Portuguese,2,1,1
+2007,KV,Psychology,1335,395,938
+2007,KV,Religious Studies,25,14,11
+2007,KV,Rhetoric,108,49,59
+2007,KV,Russian & E European Studies,5,3,2
+2007,KV,Russian Lang & Literature,4,1,3
+2007,KV,Sociology,488,196,291
+2007,KV,Spanish,294,77,217
+2007,KV,Speech Communication,670,295,374
+2007,KV,Statistics,62,44,18
+2007,KV,Statistics & Computer Science,8,6,2
+2007,KV,Teaching of French,3,0,3
+2007,KV,Teaching of German,4,1,3
+2007,KV,Teaching of Spanish,31,2,29
+2007,KY,Community Health,491,112,379
+2007,KY,Kinesiology,589,229,359
+2007,KY,Leisure Studies,15,11,4
+2007,KY,"Recreation, Sport, and Tourism",354,224,129
+2007,KY,Speech & Hearing Science,274,13,261
+2007,LE,Aviation Human Factors,163,149,14
+2008,KL,Agr & Consumer Economics,625,423,201
+2008,KL,Agr & Environmental Cmc & Educ,73,15,58
+2008,KL,Agr Engineering & Agr Science,54,47,7
+2008,KL,"Agribusiness, Farm & Financial",31,26,5
+2008,KL,Animal Sciences,541,116,424
+2008,KL,Crop Sciences,76,54,22
+2008,KL,Food Science & Human Nutrition,336,75,261
+2008,KL,Horticulture,57,36,21
+2008,KL,Human Development & Family St,211,9,202
+2008,KL,"Intl, Resource, Consumer Econ",20,13,7
+2008,KL,Natural Resrcs & Environ Sci,177,87,89
+2008,KL,Technical Systems Management,105,98,7
+2008,KM,Accountancy,750,428,321
+2008,KM,Business Administration,206,92,114
+2008,KM,Business Process Management,6,3,3
+2008,KM,Finance,598,409,188
+2008,KM,Information Sys & Info Tech,25,19,6
+2008,KM,Management,84,41,43
+2008,KM,Marketing,102,39,63
+2008,KM,Supply Chain Management,24,16,8
+2008,KN,Early Childhood Education,55,1,53
+2008,KN,Elementary Education,261,16,245
+2008,KN,Special Education,67,8,59
+2008,KP,Aerospace Engineering,418,369,49
+2008,KP,Agricultural Engineering,51,42,9
+2008,KP,Bioengineering,135,77,58
+2008,KP,Civil Engineering,667,505,161
+2008,KP,Computer Engineering,446,398,46
+2008,KP,Computer Science,628,561,66
+2008,KP,Electrical Engineering,799,713,85
+2008,KP,Engineering Mechanics,75,61,13
+2008,KP,Engineering Physics,131,118,13
+2008,KP,General Engineering,540,409,131
+2008,KP,Industrial Engineering,87,62,25
+2008,KP,Materials Science & Engr,275,218,57
+2008,KP,Mechanical Engineering,860,757,101
+2008,KP,Nuclear Engineering,107,95,12
+2008,KR,Architectural Studies,578,322,256
+2008,KR,Art Education,74,11,63
+2008,KR,Crafts,20,5,15
+2008,KR,Dance,68,9,59
+2008,KR,Graphic Design,71,22,49
+2008,KR,History of Art,13,1,12
+2008,KR,Industrial Design,107,57,50
+2008,KR,Instrumental Music,102,47,55
+2008,KR,Jazz Performance,38,35,3
+2008,KR,Landscape Architecture,111,69,42
+2008,KR,Music,21,11,10
+2008,KR,Music Composition,9,6,3
+2008,KR,Music Education,238,117,121
+2008,KR,Music History,2,1,1
+2008,KR,New Media,15,8,7
+2008,KR,Open Studies,12,8,4
+2008,KR,Painting,35,11,24
+2008,KR,Photography,29,13,16
+2008,KR,Sculpture,10,2,8
+2008,KR,Theatre,80,39,41
+2008,KR,Urban Planning,103,66,37
+2008,KR,Voice,35,7,28
+2008,KT,Advertising,433,128,305
+2008,KT,Broadcast Journalism,138,38,100
+2008,KT,Media Studies,102,31,71
+2008,KT,News-Editorial,219,64,155
+2008,KV,Actuarial Science,294,189,105
+2008,KV,African American Studies,1,1,0
+2008,KV,Anthropology,182,60,122
+2008,KV,Astronomy,47,34,13
+2008,KV,Atmospheric Sciences,41,27,13
+2008,KV,Biochemistry,131,82,49
+2008,KV,Biology,15,8,7
+2008,KV,Chemical Engineering,415,277,138
+2008,KV,Chemistry,447,244,203
+2008,KV,Classics,30,12,18
+2008,KV,Comparative Literature,16,5,11
+2008,KV,E Asian Languages & Cultures,74,38,36
+2008,KV,"Earth Systems, Env, & Society",65,37,28
+2008,KV,Economics,665,502,160
+2008,KV,English,799,241,557
+2008,KV,Finance,5,5,0
+2008,KV,French,61,16,45
+2008,KV,Geography,34,25,8
+2008,KV,Geology,54,35,19
+2008,KV,Germanic Lang & Lit,34,15,19
+2008,KV,History,537,357,179
+2008,KV,History of Art,44,5,39
+2008,KV,Individual Plans of Study,7,4,3
+2008,KV,Integrative Biology,322,153,169
+2008,KV,Interdisciplinary,65,31,34
+2008,KV,International Studies,402,111,290
+2008,KV,Italian,8,3,5
+2008,KV,Latin American Studies,6,2,4
+2008,KV,Linguistics,67,26,41
+2008,KV,Math & Computer Science,92,84,8
+2008,KV,Mathematics,213,113,99
+2008,KV,Molecular and Cellular Biology,1009,499,508
+2008,KV,Philosophy,90,74,16
+2008,KV,Physics,147,126,20
+2008,KV,Political Science,986,593,393
+2008,KV,Psychology,1263,345,918
+2008,KV,Religious Studies,23,12,11
+2008,KV,Rhetoric,119,60,59
+2008,KV,Russian & E European Studies,4,2,2
+2008,KV,Russian Lang & Literature,4,2,2
+2008,KV,"Russian, E Eur, Eurasian St",1,0,1
+2008,KV,Sociology,470,189,279
+2008,KV,Spanish,249,68,181
+2008,KV,Speech Communication,701,296,405
+2008,KV,Statistics,74,47,27
+2008,KV,Statistics & Computer Science,14,11,3
+2008,KV,Teaching of French,5,1,4
+2008,KV,Teaching of German,2,1,1
+2008,KV,Teaching of Spanish,36,2,34
+2008,KY,Community Health,572,118,454
+2008,KY,Kinesiology,594,246,347
+2008,KY,Leisure Studies,5,4,1
+2008,KY,"Recreation, Sport, and Tourism",358,240,117
+2008,KY,Speech & Hearing Science,278,17,261
+2008,LE,Aviation Human Factors,140,127,13
+2009,KL,Agr & Consumer Economics,569,386,183
+2009,KL,Agr & Environmental Cmc & Educ,82,18,64
+2009,KL,Agr Engineering & Agr Science,69,60,9
+2009,KL,"Agribusiness, Farm & Financial",4,3,1
+2009,KL,Animal Sciences,518,114,403
+2009,KL,Crop Sciences,98,69,29
+2009,KL,Food Science & Human Nutrition,377,78,299
+2009,KL,Horticulture,51,34,17
+2009,KL,Human Development & Family St,208,14,192
+2009,KL,"Intl, Resource, Consumer Econ",2,2,0
+2009,KL,Natural Resrcs & Environ Sci,195,99,96
+2009,KL,Technical Systems Management,129,118,11
+2009,KM,Accountancy,775,447,328
+2009,KM,Business Administration,63,35,28
+2009,KM,Business Process Management,18,10,8
+2009,KM,Finance,545,393,152
+2009,KM,Information Sys & Info Tech,37,30,7
+2009,KM,Management,164,68,95
+2009,KM,Marketing,151,58,93
+2009,KM,Supply Chain Management,35,24,11
+2009,KN,Early Childhood Education,39,1,38
+2009,KN,Elementary Education,259,12,247
+2009,KN,Special Education,67,9,58
+2009,KP,Aerospace Engineering,382,330,52
+2009,KP,Agricultural & Biological Engr,31,20,11
+2009,KP,Agricultural Engineering,43,35,8
+2009,KP,Bioengineering,140,83,57
+2009,KP,Civil Engineering,764,552,210
+2009,KP,Computer Engineering,469,423,45
+2009,KP,Computer Science,680,614,66
+2009,KP,Electrical Engineering,942,835,106
+2009,KP,Engineering Mechanics,106,89,17
+2009,KP,Engineering Physics,139,125,14
+2009,KP,General Engineering,454,349,104
+2009,KP,Industrial Engineering,116,86,30
+2009,KP,Materials Science & Engr,305,225,80
+2009,KP,Mechanical Engineering,765,680,83
+2009,KP,Nuclear Engineering,78,69,9
+2009,KP,"Nuclear, Plasma, Radiolgc Engr",77,61,16
+2009,KR,Architectural Studies,552,317,235
+2009,KR,Art Education,65,15,50
+2009,KR,Crafts,14,3,11
+2009,KR,Dance,67,6,61
+2009,KR,Graphic Design,64,23,41
+2009,KR,History of Art,13,0,13
+2009,KR,Industrial Design,117,56,61
+2009,KR,Instrumental Music,94,43,51
+2009,KR,Jazz Performance,41,36,5
+2009,KR,Landscape Architecture,94,56,38
+2009,KR,Music,17,10,7
+2009,KR,Music Composition,11,9,2
+2009,KR,Music Education,214,101,113
+2009,KR,Music History,7,3,4
+2009,KR,New Media,22,10,12
+2009,KR,Open Studies,12,7,5
+2009,KR,Painting,31,9,22
+2009,KR,Photography,33,8,25
+2009,KR,Sculpture,5,1,4
+2009,KR,Theatre,76,31,45
+2009,KR,Urban Planning,103,72,31
+2009,KR,Voice,30,7,23
+2009,KT,Advertising,426,142,283
+2009,KT,Broadcast Journalism,154,42,112
+2009,KT,Media Studies,110,31,79
+2009,KT,Media and Cinema Studies,1,1,0
+2009,KT,News-Editorial,215,64,151
+2009,KV,Actuarial Science,286,174,112
+2009,KV,African American Studies,7,1,6
+2009,KV,Anthropology,152,42,110
+2009,KV,Astronomy,38,27,11
+2009,KV,Atmospheric Sciences,62,38,24
+2009,KV,Biochemistry,141,77,64
+2009,KV,Bioengineering,1,1,0
+2009,KV,Biology,11,6,5
+2009,KV,Chemical Engineering,455,306,148
+2009,KV,Chemistry,449,252,196
+2009,KV,Classics,31,16,15
+2009,KV,Communication,471,193,278
+2009,KV,Comparative Literature,21,8,12
+2009,KV,E Asian Languages & Cultures,72,33,39
+2009,KV,"Earth Systems, Env, & Society",128,68,60
+2009,KV,Economics,633,486,146
+2009,KV,English,759,244,514
+2009,KV,Finance,4,3,1
+2009,KV,French,49,12,37
+2009,KV,Gender and Women's Studies,9,1,8
+2009,KV,Geography,24,17,6
+2009,KV,Geology,51,34,17
+2009,KV,Germanic Lang & Lit,29,11,17
+2009,KV,Global Studies,93,25,68
+2009,KV,History,508,332,175
+2009,KV,History of Art,36,4,32
+2009,KV,Individual Plans of Study,9,6,3
+2009,KV,Integrative Biology,329,145,184
+2009,KV,Interdisciplinary,45,19,26
+2009,KV,International Studies,316,91,224
+2009,KV,Italian,8,3,5
+2009,KV,Latin American Studies,8,4,4
+2009,KV,Linguistics,47,20,27
+2009,KV,Math & Computer Science,79,68,11
+2009,KV,Mathematics,129,68,61
+2009,KV,Molecular and Cellular Biology,1041,524,514
+2009,KV,Philosophy,96,76,20
+2009,KV,Physics,168,149,19
+2009,KV,Political Science,946,589,357
+2009,KV,Psychology,1240,339,900
+2009,KV,Religion,6,2,4
+2009,KV,Religious Studies,19,9,10
+2009,KV,Rhetoric,118,60,58
+2009,KV,Russian & E European Studies,5,4,1
+2009,KV,Russian Lang & Literature,4,2,2
+2009,KV,"Russian, E Eur, Eurasian St",5,4,1
+2009,KV,Sociology,442,170,271
+2009,KV,Spanish,227,60,167
+2009,KV,Speech Communication,359,146,213
+2009,KV,Statistics,94,59,35
+2009,KV,Statistics & Computer Science,16,13,3
+2009,KV,Teaching of French,7,1,6
+2009,KV,Teaching of German,3,1,2
+2009,KV,Teaching of Spanish,28,6,22
+2009,KY,Athletic Training,29,10,19
+2009,KY,Community Health,555,113,441
+2009,KY,Health,19,3,16
+2009,KY,Kinesiology,575,242,332
+2009,KY,Leisure Studies,1,1,0
+2009,KY,"Recreation, Sport, and Tourism",364,241,122
+2009,KY,Speech & Hearing Science,273,13,259
+2009,LE,Aviation Human Factors,128,118,10
+2010,KL,Agr & Consumer Economics,532,356,176
+2010,KL,Agr & Environmental Cmc & Educ,90,26,64
+2010,KL,Agr Engineering & Agr Science,41,35,6
+2010,KL,Agricultural & Biological Engr,29,24,5
+2010,KL,Animal Sciences,490,97,392
+2010,KL,Crop Sciences,100,69,31
+2010,KL,Food Science & Human Nutrition,372,74,298
+2010,KL,Horticulture,43,29,14
+2010,KL,Human Development & Family St,213,20,191
+2010,KL,Natural Resrcs & Environ Sci,187,102,85
+2010,KL,Technical Systems Management,149,139,10
+2010,KM,Accountancy,875,499,376
+2010,KM,Business Administration,8,4,4
+2010,KM,Business Process Management,23,12,11
+2010,KM,Finance,436,308,128
+2010,KM,Information Sys & Info Tech,32,25,7
+2010,KM,Management,181,91,89
+2010,KM,Marketing,201,68,133
+2010,KM,Supply Chain Management,52,32,20
+2010,KN,Early Childhood Education,42,0,42
+2010,KN,Elementary Education,268,14,253
+2010,KN,Special Education,76,8,68
+2010,KP,Aerospace Engineering,376,325,51
+2010,KP,Agricultural & Biological Engr,64,44,20
+2010,KP,Agricultural Engineering,31,24,7
+2010,KP,Bioengineering,158,99,59
+2010,KP,Civil Engineering,803,580,221
+2010,KP,Computer Engineering,524,480,43
+2010,KP,Computer Science,795,716,79
+2010,KP,Electrical Engineering,1022,905,115
+2010,KP,Engineering Mechanics,135,115,20
+2010,KP,Engineering Physics,143,127,16
+2010,KP,General Engineering,426,326,99
+2010,KP,Industrial Engineering,161,122,39
+2010,KP,Materials Science & Engr,309,239,70
+2010,KP,Mechanical Engineering,802,718,82
+2010,KP,Nuclear Engineering,92,80,12
+2010,KP,"Nuclear, Plasma, Radiolgc Engr",82,69,13
+2010,KR,Architectural Studies,503,290,213
+2010,KR,Art Education,65,12,53
+2010,KR,Crafts,14,1,13
+2010,KR,Dance,67,6,61
+2010,KR,Graphic Design,67,25,42
+2010,KR,History of Art,13,0,13
+2010,KR,Industrial Design,112,53,59
+2010,KR,Instrumental Music,82,34,48
+2010,KR,Jazz Performance,33,27,6
+2010,KR,Landscape Architecture,84,44,40
+2010,KR,Music,31,17,14
+2010,KR,Music Composition,12,9,3
+2010,KR,Music Education,185,87,98
+2010,KR,Music History,8,3,5
+2010,KR,New Media,25,8,17
+2010,KR,Open Studies,8,3,5
+2010,KR,Painting,35,9,26
+2010,KR,Photography,36,9,27
+2010,KR,Sculpture,3,1,2
+2010,KR,Theatre,60,19,41
+2010,KR,Urban Planning,104,67,37
+2010,KR,Voice,32,6,26
+2010,KT,Advertising,511,158,353
+2010,KT,Broadcast Journalism,136,41,95
+2010,KT,Media Studies,59,17,42
+2010,KT,Media and Cinema Studies,62,33,29
+2010,KT,News-Editorial,181,55,126
+2010,KV,Actuarial Science,292,169,123
+2010,KV,African American Studies,7,4,3
+2010,KV,Anthropology,145,52,93
+2010,KV,Astronomy,42,34,8
+2010,KV,Atmospheric Sciences,78,52,26
+2010,KV,Biochemistry,139,73,66
+2010,KV,Biology,10,4,6
+2010,KV,Chemical Engineering,514,351,162
+2010,KV,Chemistry,463,265,197
+2010,KV,Classics,30,17,13
+2010,KV,Communication,791,311,480
+2010,KV,Comparative Literature,19,7,11
+2010,KV,E Asian Languages & Cultures,82,34,48
+2010,KV,"Earth Systems, Env, & Society",158,85,73
+2010,KV,Economics,650,481,169
+2010,KV,English,686,224,461
+2010,KV,Finance,2,2,0
+2010,KV,French,48,14,34
+2010,KV,Gender and Women's Studies,16,0,16
+2010,KV,Geography,21,17,4
+2010,KV,Geology,47,33,14
+2010,KV,Germanic Lang & Lit,15,7,8
+2010,KV,Global Studies,205,57,148
+2010,KV,History,487,325,161
+2010,KV,History of Art,31,0,31
+2010,KV,Individual Plans of Study,8,6,2
+2010,KV,Integrative Biology,361,152,209
+2010,KV,Interdisciplinary,16,7,9
+2010,KV,International Studies,132,33,98
+2010,KV,Italian,5,1,4
+2010,KV,Latin American Studies,6,3,3
+2010,KV,Linguistics,40,16,24
+2010,KV,Math & Computer Science,82,72,10
+2010,KV,Mathematics,112,62,50
+2010,KV,Molecular and Cellular Biology,1030,528,502
+2010,KV,Philosophy,90,72,18
+2010,KV,Physics,189,161,27
+2010,KV,Political Science,841,531,310
+2010,KV,Psychology,1299,416,880
+2010,KV,Religion,15,8,7
+2010,KV,Religious Studies,8,3,5
+2010,KV,Rhetoric,108,62,46
+2010,KV,Russian & E European Studies,4,4,0
+2010,KV,Russian Lang & Literature,4,3,1
+2010,KV,"Russian, E Eur, Eurasian St",6,6,0
+2010,KV,Sociology,358,141,217
+2010,KV,Spanish,189,41,148
+2010,KV,Speech Communication,71,21,50
+2010,KV,Statistics,115,74,41
+2010,KV,Statistics & Computer Science,19,12,7
+2010,KV,Teaching of French,4,0,4
+2010,KV,Teaching of German,3,1,2
+2010,KV,Teaching of Spanish,25,6,19
+2010,KY,Athletic Training,34,9,25
+2010,KY,Community Health,519,115,403
+2010,KY,Health,79,20,59
+2010,KY,Kinesiology,580,247,332
+2010,KY,"Recreation, Sport, and Tourism",315,206,108
+2010,KY,Speech & Hearing Science,275,11,264
+2010,LE,Aviation Human Factors,101,94,7
+2010,LL,Social Work,47,6,41
+2011,KL,Agr & Consumer Economics,568,382,186
+2011,KL,Agr & Environmental Cmc & Educ,78,19,59
+2011,KL,Agr Engineering & Agr Science,21,18,3
+2011,KL,Agricultural & Biological Engr,38,28,10
+2011,KL,Animal Sciences,465,79,385
+2011,KL,Crop Sciences,93,71,22
+2011,KL,Food Science & Human Nutrition,414,85,329
+2011,KL,Horticulture,33,21,12
+2011,KL,Human Development & Family St,217,16,201
+2011,KL,Natural Resrcs & Environ Sci,235,122,113
+2011,KL,Technical Systems Management,189,175,14
+2011,KM,Accountancy,942,517,425
+2011,KM,Business Administration,1,1,0
+2011,KM,Business Process Management,31,18,13
+2011,KM,Finance,492,358,134
+2011,KM,Information Sys & Info Tech,35,28,7
+2011,KM,Management,150,77,73
+2011,KM,Marketing,205,72,133
+2011,KM,Supply Chain Management,50,27,23
+2011,KN,Early Childhood Education,38,0,38
+2011,KN,Elementary Education,273,19,253
+2011,KN,Special Education,76,9,67
+2011,KP,Aerospace Engineering,366,316,50
+2011,KP,Agricultural & Biological Engr,98,67,31
+2011,KP,Agricultural Engineering,6,3,3
+2011,KP,Bioengineering,178,103,75
+2011,KP,Civil Engineering,787,589,198
+2011,KP,Computer Engineering,608,563,45
+2011,KP,Computer Science,855,776,79
+2011,KP,Electrical Engineering,1128,995,133
+2011,KP,Engineering Mechanics,142,126,16
+2011,KP,Engineering Physics,152,138,14
+2011,KP,General Engineering,384,307,77
+2011,KP,Industrial Engineering,183,139,44
+2011,KP,Materials Science & Engr,379,294,85
+2011,KP,Mechanical Engineering,775,679,94
+2011,KP,Nuclear Engineering,44,37,7
+2011,KP,"Nuclear, Plasma, Radiolgc Engr",163,145,18
+2011,KR,Architectural Studies,505,286,219
+2011,KR,Art Education,59,10,48
+2011,KR,Crafts,12,2,10
+2011,KR,Dance,61,5,56
+2011,KR,Graphic Design,70,27,43
+2011,KR,History of Art,10,1,9
+2011,KR,Industrial Design,117,54,63
+2011,KR,Instrumental Music,89,40,49
+2011,KR,Jazz Performance,27,23,4
+2011,KR,Landscape Architecture,73,38,35
+2011,KR,Music,35,16,18
+2011,KR,Music Composition,9,6,3
+2011,KR,Music Education,173,77,96
+2011,KR,Music History,5,2,3
+2011,KR,New Media,24,8,16
+2011,KR,Open Studies,6,3,3
+2011,KR,Painting,43,11,32
+2011,KR,Photography,42,11,31
+2011,KR,Sculpture,6,4,2
+2011,KR,Theatre,75,36,39
+2011,KR,Urban Planning,116,73,43
+2011,KR,Voice,30,7,23
+2011,KT,Advertising,626,193,433
+2011,KT,Agricultural Communications,7,0,7
+2011,KT,Broadcast Journalism,157,55,102
+2011,KT,Media Studies,12,2,10
+2011,KT,Media and Cinema Studies,118,59,59
+2011,KT,News-Editorial,169,46,123
+2011,KV,Actuarial Science,279,159,120
+2011,KV,African American Studies,3,3,0
+2011,KV,Anthropology,147,47,100
+2011,KV,Astronomy,39,26,13
+2011,KV,Atmospheric Sciences,77,50,27
+2011,KV,Biochemistry,142,84,58
+2011,KV,Biology,8,4,4
+2011,KV,Chemical Engineering,540,365,175
+2011,KV,Chemistry,483,282,201
+2011,KV,Classics,16,9,7
+2011,KV,Communication,806,339,466
+2011,KV,Comparative Literature,12,4,6
+2011,KV,E Asian Languages & Cultures,77,30,47
+2011,KV,"Earth Systems, Env, & Society",108,55,53
+2011,KV,"Earth, Society, & Environment",25,16,9
+2011,KV,Economics,687,477,210
+2011,KV,English,577,176,400
+2011,KV,French,50,14,36
+2011,KV,Gender and Women's Studies,16,3,13
+2011,KV,Geography,22,18,4
+2011,KV,Geology,40,27,13
+2011,KV,Germanic Lang & Lit,14,4,10
+2011,KV,Global Studies,263,76,187
+2011,KV,History,437,289,147
+2011,KV,History of Art,33,1,32
+2011,KV,Individual Plans of Study,5,4,1
+2011,KV,Integrative Biology,439,194,245
+2011,KV,Interdisciplinary,10,6,4
+2011,KV,International Studies,47,12,34
+2011,KV,Italian,3,2,1
+2011,KV,Latin American Studies,7,4,3
+2011,KV,Latina/Latino Studies,8,3,5
+2011,KV,Linguistics,49,22,27
+2011,KV,Math & Computer Science,72,64,8
+2011,KV,Mathematics,125,59,66
+2011,KV,Molecular and Cellular Biology,1051,555,496
+2011,KV,Philosophy,96,70,26
+2011,KV,Physics,242,209,33
+2011,KV,Political Science,765,470,295
+2011,KV,Portuguese,1,1,0
+2011,KV,Psychology,1307,408,896
+2011,KV,Religion,19,12,7
+2011,KV,Religious Studies,5,1,4
+2011,KV,Rhetoric,107,49,58
+2011,KV,Russian & E European Studies,2,1,1
+2011,KV,Russian Lang & Literature,3,1,2
+2011,KV,"Russian, E Eur, Eurasian St",3,2,1
+2011,KV,Sociology,281,112,169
+2011,KV,Spanish,168,41,127
+2011,KV,Speech Communication,9,2,7
+2011,KV,Statistics,137,84,53
+2011,KV,Statistics & Computer Science,16,11,5
+2011,KV,Teaching of French,2,0,2
+2011,KV,Teaching of German,1,0,1
+2011,KV,Teaching of Spanish,26,3,23
+2011,KY,Athletic Training,17,5,12
+2011,KY,Community Health,565,143,420
+2011,KY,Health,139,33,106
+2011,KY,Kinesiology,581,237,343
+2011,KY,"Recreation, Sport, and Tourism",325,217,108
+2011,KY,Speech & Hearing Science,300,12,288
+2011,LE,Aviation Human Factors,70,65,5
+2011,LL,Social Work,107,11,96
+2012,KL,Agr & Consumer Economics,631,418,213
+2012,KL,Agr & Environmental Cmc & Educ,19,4,15
+2012,KL,Agr Engineering & Agr Science,4,3,1
+2012,KL,Agric Leadership & Sci Educ,43,22,21
+2012,KL,Agricultural & Biological Engr,75,56,19
+2012,KL,Animal Sciences,498,90,408
+2012,KL,Crop Sciences,113,88,25
+2012,KL,Food Science & Human Nutrition,429,98,331
+2012,KL,Horticulture,34,21,13
+2012,KL,Human Development & Family St,224,20,204
+2012,KL,Natural Resrcs & Environ Sci,241,126,115
+2012,KL,Technical Systems Management,201,183,18
+2012,KM,Accountancy,962,514,448
+2012,KM,Business Administration,1,1,0
+2012,KM,Business Process Management,32,19,13
+2012,KM,Finance,501,341,160
+2012,KM,Information Sys & Info Tech,34,28,6
+2012,KM,Management,111,50,61
+2012,KM,Marketing,198,72,126
+2012,KM,Supply Chain Management,58,33,25
+2012,KN,Early Childhood Education,29,1,28
+2012,KN,Elementary Education,244,19,225
+2012,KN,Special Education,80,7,73
+2012,KP,Aerospace Engineering,356,305,51
+2012,KP,Agricultural & Biological Engr,114,85,29
+2012,KP,Agricultural Engineering,1,1,0
+2012,KP,Bioengineering,187,106,81
+2012,KP,Civil Engineering,791,597,194
+2012,KP,Computer Engineering,697,635,62
+2012,KP,Computer Science,947,868,79
+2012,KP,Electrical Engineering,1163,1021,142
+2012,KP,Engineering Mechanics,122,110,12
+2012,KP,Engineering Physics,177,158,19
+2012,KP,General Engineering,368,270,98
+2012,KP,Industrial Engineering,223,175,48
+2012,KP,Materials Science & Engr,384,291,93
+2012,KP,Mechanical Engineering,814,705,108
+2012,KP,Nuclear Engineering,14,11,3
+2012,KP,"Nuclear, Plasma, Radiolgc Engr",176,154,22
+2012,KR,Architectural Studies,478,272,206
+2012,KR,Art Education,44,9,35
+2012,KR,Crafts,14,3,11
+2012,KR,Dance,44,4,40
+2012,KR,Graphic Design,76,27,49
+2012,KR,History of Art,8,2,6
+2012,KR,Industrial Design,110,55,55
+2012,KR,Instrumental Music,75,35,40
+2012,KR,Jazz Performance,22,20,2
+2012,KR,Landscape Architecture,58,30,28
+2012,KR,Music,34,15,19
+2012,KR,Music Composition,5,5,0
+2012,KR,Music Education,153,67,86
+2012,KR,Music History,3,1,2
+2012,KR,New Media,18,8,10
+2012,KR,Open Studies,4,1,3
+2012,KR,Painting,38,12,26
+2012,KR,Photography,32,12,20
+2012,KR,Sculpture,8,2,6
+2012,KR,Theatre,63,31,32
+2012,KR,Urban Planning,105,57,48
+2012,KR,Voice,34,6,28
+2012,KT,Advertising,603,169,434
+2012,KT,Agricultural Communications,19,4,15
+2012,KT,Broadcast Journalism,149,57,92
+2012,KT,Media Studies,2,0,2
+2012,KT,Media and Cinema Studies,114,57,56
+2012,KT,News-Editorial,168,49,119
+2012,KV,Actuarial Science,288,169,119
+2012,KV,African American Studies,11,5,6
+2012,KV,Anthropology,166,49,117
+2012,KV,Astronomy,40,26,14
+2012,KV,Atmospheric Sciences,72,50,22
+2012,KV,Biochemistry,160,104,56
+2012,KV,Biology,11,4,7
+2012,KV,Chemical Engineering,549,373,176
+2012,KV,Chemistry,518,309,209
+2012,KV,Classics,18,9,9
+2012,KV,Communication,818,350,467
+2012,KV,Comparative Literature,8,6,2
+2012,KV,E Asian Languages & Cultures,69,33,36
+2012,KV,"Earth Systems, Env, & Society",36,20,16
+2012,KV,"Earth, Soc, Env Sustainability",61,35,25
+2012,KV,"Earth, Society, & Environment",49,27,22
+2012,KV,Economics,721,503,218
+2012,KV,English,504,155,348
+2012,KV,French,38,9,29
+2012,KV,Gender and Women's Studies,11,3,8
+2012,KV,Geography,21,17,4
+2012,KV,Geology,43,27,16
+2012,KV,Germanic Lang & Lit,16,7,9
+2012,KV,Global Studies,268,71,197
+2012,KV,History,375,233,140
+2012,KV,History of Art,26,1,25
+2012,KV,Individual Plans of Study,4,2,2
+2012,KV,Integrative Biology,443,178,265
+2012,KV,Interdisciplinary,4,0,4
+2012,KV,International Studies,6,3,3
+2012,KV,Italian,3,2,1
+2012,KV,Latin American Studies,6,3,3
+2012,KV,Latina/Latino Studies,6,2,4
+2012,KV,Linguistics,51,16,35
+2012,KV,Math & Computer Science,86,71,15
+2012,KV,Mathematics,120,54,66
+2012,KV,Microbiology,1,1,0
+2012,KV,Molecular and Cellular Biology,1113,569,544
+2012,KV,Philosophy,86,58,27
+2012,KV,Physics,288,256,32
+2012,KV,Political Science,689,445,243
+2012,KV,Portuguese,1,1,0
+2012,KV,Psychology,1254,367,887
+2012,KV,Religion,14,8,6
+2012,KV,Religious Studies,2,1,1
+2012,KV,Rhetoric,93,35,58
+2012,KV,Russian & E European Studies,1,0,1
+2012,KV,Russian Lang & Literature,5,2,3
+2012,KV,"Russian, E Eur, Eurasian St",3,2,1
+2012,KV,Sociology,241,88,153
+2012,KV,Spanish,147,34,113
+2012,KV,Speech Communication,1,1,0
+2012,KV,Statistics,154,107,47
+2012,KV,Statistics & Computer Science,20,14,6
+2012,KV,Teaching of French,8,0,8
+2012,KV,Teaching of German,1,0,1
+2012,KV,Teaching of Spanish,18,3,15
+2012,KY,Athletic Training,1,0,1
+2012,KY,Community Health,637,176,461
+2012,KY,Health,153,41,112
+2012,KY,Kinesiology,568,235,333
+2012,KY,"Recreation, Sport, and Tourism",316,198,118
+2012,KY,Speech & Hearing Science,328,8,320
+2012,LE,Aviation Human Factors,39,36,3
+2012,LL,Social Work,113,10,103
+2013,KL,Agr & Consumer Economics,688,460,228
+2013,KL,Agr & Environmental Cmc & Educ,11,2,9
+2013,KL,Agric Leadership & Sci Educ,58,24,34
+2013,KL,Agricultural & Biological Engr,89,59,30
+2013,KL,Animal Sciences,539,92,447
+2013,KL,Crop Sciences,139,99,40
+2013,KL,Food Science & Human Nutrition,425,95,330
+2013,KL,Horticulture,25,10,15
+2013,KL,Human Development & Family St,227,22,205
+2013,KL,Natural Resrcs & Environ Sci,239,128,111
+2013,KL,Technical Systems Management,210,189,21
+2013,KM,Accountancy,989,517,472
+2013,KM,Business Process Management,35,19,16
+2013,KM,Finance,460,310,150
+2013,KM,Information Sys & Info Tech,48,37,11
+2013,KM,Management,109,47,62
+2013,KM,Marketing,207,70,137
+2013,KM,Supply Chain Management,70,38,32
+2013,KN,Early Childhood Education,22,1,21
+2013,KN,Elementary Education,198,20,178
+2013,KN,Special Education,82,6,76
+2013,KP,Aerospace Engineering,410,369,41
+2013,KP,Agricultural & Biological Engr,93,74,19
+2013,KP,Bioengineering,208,115,93
+2013,KP,Civil Engineering,775,583,192
+2013,KP,Computer Engineering,791,721,70
+2013,KP,Computer Science,1040,925,115
+2013,KP,Electrical Engineering,1170,1034,135
+2013,KP,Engineering Mechanics,97,86,11
+2013,KP,Engineering Physics,197,179,18
+2013,KP,General Engineering,320,248,72
+2013,KP,Industrial Engineering,254,201,53
+2013,KP,Materials Science & Engr,410,316,94
+2013,KP,Mechanical Engineering,869,758,110
+2013,KP,Nuclear Engineering,6,5,1
+2013,KP,"Nuclear, Plasma, Radiolgc Engr",165,140,25
+2013,KR,Architectural Studies,443,246,197
+2013,KR,Art Education,44,8,36
+2013,KR,Crafts,18,1,17
+2013,KR,Dance,54,9,45
+2013,KR,Graphic Design,77,25,52
+2013,KR,History of Art,10,1,9
+2013,KR,Industrial Design,108,52,56
+2013,KR,Instrumental Music,77,39,38
+2013,KR,Jazz Performance,22,19,3
+2013,KR,Landscape Architecture,56,26,30
+2013,KR,Music,34,21,13
+2013,KR,Music Composition,9,8,1
+2013,KR,Music Education,165,69,96
+2013,KR,Music History,2,0,2
+2013,KR,New Media,20,11,9
+2013,KR,Open Studies,5,0,5
+2013,KR,Painting,25,9,16
+2013,KR,Photography,28,9,19
+2013,KR,Sculpture,5,2,3
+2013,KR,Theatre,74,29,45
+2013,KR,Urban Planning,86,40,46
+2013,KR,Voice,26,5,21
+2013,KT,Advertising,579,162,417
+2013,KT,Agricultural Communications,25,5,20
+2013,KT,Broadcast Journalism,179,61,118
+2013,KT,Media Studies,1,1,0
+2013,KT,Media and Cinema Studies,92,42,49
+2013,KT,News-Editorial,161,50,111
+2013,KV,Actuarial Science,329,186,143
+2013,KV,African American Studies,9,4,5
+2013,KV,American Civilization,1,0,1
+2013,KV,Anthropology,140,41,99
+2013,KV,Astronomy,40,28,12
+2013,KV,Atmospheric Sciences,70,47,23
+2013,KV,Biochemistry,162,105,57
+2013,KV,Biology,9,5,4
+2013,KV,Chemical Engineering,668,467,201
+2013,KV,Chemistry,496,310,186
+2013,KV,Classics,17,12,5
+2013,KV,Communication,761,326,434
+2013,KV,Comparative Literature,4,2,2
+2013,KV,Computer Sci & Chemistry,1,0,1
+2013,KV,Creative Writing,23,12,11
+2013,KV,E Asian Languages & Cultures,58,23,35
+2013,KV,"Earth Systems, Env, & Society",11,5,6
+2013,KV,"Earth, Soc, Env Sustainability",129,66,63
+2013,KV,"Earth, Society, & Environment",31,13,18
+2013,KV,Economics,804,576,228
+2013,KV,English,419,123,296
+2013,KV,French,28,8,20
+2013,KV,Gender and Women's Studies,19,2,17
+2013,KV,Geography,5,5,0
+2013,KV,Geography & Geographic Info Sc,18,18,0
+2013,KV,Geology,67,48,19
+2013,KV,Germanic Lang & Lit,13,7,6
+2013,KV,Global Studies,235,67,168
+2013,KV,History,291,183,106
+2013,KV,History of Art,28,0,28
+2013,KV,Individual Plans of Study,6,1,5
+2013,KV,Integrative Biology,428,177,251
+2013,KV,Interdisciplinary,3,0,3
+2013,KV,International Studies,1,1,0
+2013,KV,Italian,5,3,2
+2013,KV,Latin American Studies,5,1,4
+2013,KV,Latina/Latino Studies,5,3,2
+2013,KV,Linguistics,58,19,39
+2013,KV,Math & Computer Science,161,132,29
+2013,KV,Mathematics,143,84,59
+2013,KV,Molecular and Cellular Biology,1175,602,573
+2013,KV,Philosophy,68,46,22
+2013,KV,Physics,329,292,37
+2013,KV,Political Science,655,422,233
+2013,KV,Portuguese,1,1,0
+2013,KV,Psychology,1245,383,861
+2013,KV,Religion,12,9,3
+2013,KV,Religious Studies,1,0,1
+2013,KV,Rhetoric,60,19,41
+2013,KV,Russian & E European Studies,1,0,1
+2013,KV,Russian Lang & Literature,6,4,2
+2013,KV,"Russian, E Eur, Eurasian St",4,2,2
+2013,KV,Sociology,233,94,139
+2013,KV,Spanish,147,35,112
+2013,KV,Statistics,144,104,40
+2013,KV,Statistics & Computer Science,34,26,8
+2013,KV,Teaching of French,5,0,5
+2013,KV,Teaching of German,1,0,1
+2013,KV,Teaching of Spanish,7,1,6
+2013,KY,Community Health,633,181,452
+2013,KY,Health,205,49,156
+2013,KY,Kinesiology,545,228,317
+2013,KY,"Recreation, Sport, and Tourism",297,190,107
+2013,KY,Speech & Hearing Science,299,9,290
+2013,LE,Aviation Human Factors,28,22,6
+2013,LL,Social Work,143,17,126
+2014,KL,Agr & Consumer Economics,684,457,227
+2014,KL,Agr & Environmental Cmc & Educ,3,0,3
+2014,KL,Agr Engineering & Agr Science,1,1,0
+2014,KL,Agric Leadership & Sci Educ,55,22,33
+2014,KL,Agricultural & Biological Engr,100,68,32
+2014,KL,Animal Sciences,534,89,445
+2014,KL,Crop Sciences,151,97,54
+2014,KL,Food Science & Human Nutrition,412,98,314
+2014,KL,Horticulture,31,8,23
+2014,KL,Human Development & Family St,187,14,173
+2014,KL,Natural Resrcs & Environ Sci,232,115,117
+2014,KL,Technical Systems Management,207,193,14
+2014,KM,Accountancy,1023,533,490
+2014,KM,Business Process Management,29,14,15
+2014,KM,Finance,485,327,158
+2014,KM,Information Sys & Info Tech,51,37,14
+2014,KM,Management,103,45,58
+2014,KM,Marketing,221,73,148
+2014,KM,Supply Chain Management,90,50,40
+2014,KN,Early Childhood Education,21,0,21
+2014,KN,Elementary Education,208,15,193
+2014,KN,Special Education,89,11,78
+2014,KP,Aerospace Engineering,478,434,44
+2014,KP,Agricultural & Biological Engr,83,66,17
+2014,KP,Bioengineering,246,134,112
+2014,KP,Civil Engineering,712,536,176
+2014,KP,Computer Engineering,905,813,92
+2014,KP,Computer Science,1115,936,179
+2014,KP,Electrical Engineering,1109,973,135
+2014,KP,Engineering Mechanics,93,85,8
+2014,KP,Engineering Physics,231,210,21
+2014,KP,General Engineering,271,211,60
+2014,KP,Industrial Engineering,292,230,62
+2014,KP,Materials Science & Engr,409,296,113
+2014,KP,Mechanical Engineering,886,754,132
+2014,KP,"Nuclear, Plasma, Radiolgc Engr",148,122,26
+2014,KR,Architectural Studies,431,237,194
+2014,KR,Art Education,30,4,26
+2014,KR,Crafts,16,0,16
+2014,KR,Dance,57,13,44
+2014,KR,Graphic Design,81,19,62
+2014,KR,History of Art,4,0,4
+2014,KR,Industrial Design,113,54,59
+2014,KR,Instrumental Music,71,33,38
+2014,KR,Jazz Performance,27,24,3
+2014,KR,Landscape Architecture,69,32,37
+2014,KR,Music,27,16,11
+2014,KR,Music Composition,8,7,1
+2014,KR,Music Education,161,67,94
+2014,KR,Music History,3,0,3
+2014,KR,New Media,17,11,6
+2014,KR,Open Studies,3,0,3
+2014,KR,Painting,21,4,17
+2014,KR,Photography,16,3,13
+2014,KR,Sculpture,3,2,1
+2014,KR,Theatre,57,24,33
+2014,KR,Urban Planning,82,40,42
+2014,KR,Voice,24,6,18
+2014,KT,Advertising,579,178,401
+2014,KT,Agricultural Communications,39,8,31
+2014,KT,Broadcast Journalism,144,51,93
+2014,KT,Journalism,80,24,56
+2014,KT,Media and Cinema Studies,98,44,54
+2014,KT,News-Editorial,120,34,86
+2014,KV,Actuarial Science,385,218,167
+2014,KV,African American Studies,9,4,5
+2014,KV,Anthropology,117,29,88
+2014,KV,Astronomy,55,39,16
+2014,KV,Atmospheric Sciences,75,47,28
+2014,KV,Biochemistry,140,83,57
+2014,KV,Biology,6,3,3
+2014,KV,Chemical Engineering,706,507,199
+2014,KV,Chemistry,540,331,209
+2014,KV,Classics,15,11,4
+2014,KV,Communication,771,341,429
+2014,KV,Comparative Literature,4,2,2
+2014,KV,Computer Sci & Anthropology,9,6,3
+2014,KV,Computer Sci & Astronomy,8,6,2
+2014,KV,Computer Sci & Chemistry,15,10,5
+2014,KV,Computer Sci & Linguistics,8,5,3
+2014,KV,Creative Writing,50,17,33
+2014,KV,E Asian Languages & Cultures,58,23,35
+2014,KV,"Earth Systems, Env, & Society",1,1,0
+2014,KV,"Earth, Soc, Env Sustainability",141,64,77
+2014,KV,"Earth, Society, & Environment",8,2,6
+2014,KV,Economics,868,613,255
+2014,KV,English,385,109,276
+2014,KV,French,19,6,13
+2014,KV,Gender and Women's Studies,11,3,8
+2014,KV,Geography,4,3,1
+2014,KV,Geography & Geographic Info Sc,29,25,4
+2014,KV,Geology,77,56,21
+2014,KV,Germanic Lang & Lit,10,5,5
+2014,KV,Global Studies,218,58,160
+2014,KV,History,237,147,90
+2014,KV,History of Art,21,1,20
+2014,KV,Individual Plans of Study,7,2,5
+2014,KV,Integrative Biology,408,169,239
+2014,KV,Interdisciplinary,4,1,3
+2014,KV,Italian,2,2,0
+2014,KV,Latin American Studies,3,2,1
+2014,KV,Latina/Latino Studies,5,1,4
+2014,KV,Linguistics,66,23,43
+2014,KV,Math & Computer Science,210,174,36
+2014,KV,Mathematics,138,93,45
+2014,KV,Molecular and Cellular Biology,1095,552,543
+2014,KV,Philosophy,60,44,16
+2014,KV,Physics,402,353,48
+2014,KV,Political Science,640,390,250
+2014,KV,Portuguese,3,1,2
+2014,KV,Psychology,1261,372,889
+2014,KV,Religion,6,3,3
+2014,KV,Rhetoric,34,13,21
+2014,KV,Russian Lang & Literature,5,3,2
+2014,KV,"Russian, E Eur, Eurasian St",11,5,6
+2014,KV,Sociology,200,82,118
+2014,KV,Spanish,88,19,69
+2014,KV,Speech Communication,1,0,1
+2014,KV,Statistics,142,93,49
+2014,KV,Statistics & Computer Science,55,46,9
+2014,KV,Teaching of French,3,0,3
+2014,KV,Teaching of Latin,1,1,0
+2014,KV,Teaching of Spanish,16,2,14
+2014,KY,Community Health,610,158,452
+2014,KY,Health,27,9,18
+2014,KY,Interdisciplinary Health Sci,202,45,157
+2014,KY,Kinesiology,561,231,330
+2014,KY,"Recreation, Sport, and Tourism",300,200,100
+2014,KY,Speech & Hearing Science,274,6,268
+2014,LE,Aviation Human Factors,3,3,0
+2014,LL,Social Work,173,23,150
+2015,KL,Agr & Consumer Economics,669,445,224
+2015,KL,Agr Engineering & Agr Science,1,1,0
+2015,KL,Agric Leadership & Sci Educ,55,21,34
+2015,KL,Agricultural & Biological Engr,98,64,34
+2015,KL,Agriculture,1,1,0
+2015,KL,Animal Sciences,523,83,440
+2015,KL,Crop Sciences,158,99,59
+2015,KL,Food Science & Human Nutrition,392,83,309
+2015,KL,Horticulture,24,6,18
+2015,KL,Human Development & Family St,198,24,174
+2015,KL,Natural Resrcs & Environ Sci,235,124,111
+2015,KL,Technical Systems Management,193,173,20
+2015,KM,Accountancy,945,495,450
+2015,KM,Business Process Management,36,20,16
+2015,KM,Finance,550,382,168
+2015,KM,Information Sys & Info Tech,47,28,19
+2015,KM,Management,100,38,62
+2015,KM,Marketing,221,91,130
+2015,KM,Supply Chain Management,92,38,54
+2015,KN,Early Childhood Education,60,2,58
+2015,KN,Elementary Education,366,24,342
+2015,KN,Learning and Education Studies,27,5,22
+2015,KN,Special Education,125,10,115
+2015,KP,Aerospace Engineering,513,462,51
+2015,KP,Agricultural & Biological Engr,63,47,16
+2015,KP,Bioengineering,249,130,119
+2015,KP,Civil Engineering,730,536,194
+2015,KP,Computer Engineering,1062,952,109
+2015,KP,Computer Science,1113,893,220
+2015,KP,Electrical Engineering,1146,1002,144
+2015,KP,Engineering Mechanics,112,101,11
+2015,KP,Engineering Physics,248,218,30
+2015,KP,General Engineering,230,172,58
+2015,KP,Industrial Engineering,277,201,76
+2015,KP,Materials Science & Engr,395,279,116
+2015,KP,Mechanical Engineering,893,754,139
+2015,KP,"Nuclear, Plasma, Radiolgc Engr",155,132,23
+2015,KR,Architectural Studies,398,218,180
+2015,KR,Art Education,25,4,21
+2015,KR,Crafts,16,1,14
+2015,KR,Dance,58,10,48
+2015,KR,Graphic Design,94,19,75
+2015,KR,History of Art,5,0,5
+2015,KR,Industrial Design,132,53,79
+2015,KR,Instrumental Music,76,33,43
+2015,KR,Jazz Performance,31,30,1
+2015,KR,Landscape Architecture,63,27,36
+2015,KR,Music,33,23,10
+2015,KR,Music Composition,8,7,1
+2015,KR,Music Education,168,67,101
+2015,KR,Musicology,3,1,2
+2015,KR,New Media,17,10,7
+2015,KR,Open Studies,3,0,3
+2015,KR,Painting,20,4,16
+2015,KR,Photography,9,1,8
+2015,KR,Sculpture,1,0,1
+2015,KR,Theatre,55,27,28
+2015,KR,Urban Planning,89,41,48
+2015,KR,Voice,28,6,22
+2015,KT,Advertising,562,182,380
+2015,KT,Agricultural Communications,41,8,33
+2015,KT,Broadcast Journalism,100,35,65
+2015,KT,Communications,1,1,0
+2015,KT,Journalism,131,49,82
+2015,KT,Media and Cinema Studies,87,34,53
+2015,KT,News-Editorial,77,24,53
+2015,KV,Actuarial Science,389,224,164
+2015,KV,African American Studies,11,3,8
+2015,KV,Anthropology,85,27,58
+2015,KV,Astronomy,55,35,20
+2015,KV,Atmospheric Sciences,65,36,29
+2015,KV,Biochemistry,166,86,80
+2015,KV,Biology,6,3,3
+2015,KV,Chemical Engineering,681,498,183
+2015,KV,Chemistry,574,337,237
+2015,KV,Classics,12,6,6
+2015,KV,Communication,732,296,436
+2015,KV,Comparative Literature,5,2,3
+2015,KV,Computer Sci & Anthropology,11,8,3
+2015,KV,Computer Sci & Astronomy,18,14,4
+2015,KV,Computer Sci & Chemistry,27,18,9
+2015,KV,Computer Sci & Linguistics,27,19,8
+2015,KV,Creative Writing,74,24,50
+2015,KV,E Asian Languages & Cultures,45,15,30
+2015,KV,"Earth, Soc, Env Sustainability",152,70,82
+2015,KV,Economics,894,654,240
+2015,KV,English,343,99,244
+2015,KV,French,17,7,10
+2015,KV,Gender and Women's Studies,13,2,11
+2015,KV,Geography & Geographic Info Sc,37,27,10
+2015,KV,Geology,76,59,17
+2015,KV,Germanic Lang & Lit,10,5,5
+2015,KV,Global Studies,202,51,151
+2015,KV,History,205,121,84
+2015,KV,History of Art,18,1,17
+2015,KV,Individual Plans of Study,7,3,4
+2015,KV,Integrative Biology,402,153,249
+2015,KV,Interdisciplinary,4,2,2
+2015,KV,Italian,2,2,0
+2015,KV,Latin American Studies,1,1,0
+2015,KV,Latina/Latino Studies,4,2,2
+2015,KV,Linguistics,71,25,46
+2015,KV,Math & Computer Science,263,216,47
+2015,KV,Mathematics,153,90,63
+2015,KV,Molecular and Cellular Biology,1041,517,524
+2015,KV,Philosophy,61,42,19
+2015,KV,Physics,386,332,54
+2015,KV,Political Science,583,343,240
+2015,KV,Portuguese,1,0,1
+2015,KV,Psychology,1333,383,950
+2015,KV,Religion,7,4,3
+2015,KV,Rhetoric,8,3,5
+2015,KV,Russian Lang & Literature,2,1,1
+2015,KV,"Russian, E Eur, Eurasian St",4,1,3
+2015,KV,Slavic Studies,1,1,0
+2015,KV,Sociology,191,88,103
+2015,KV,Spanish,76,17,59
+2015,KV,Speech Communication,1,1,0
+2015,KV,Statistics,190,118,72
+2015,KV,Statistics & Computer Science,107,86,21
+2015,KV,Teaching of French,2,0,2
+2015,KV,Teaching of German,1,0,1
+2015,KV,Teaching of Spanish,10,0,10
+2015,KY,Community Health,581,141,440
+2015,KY,Health,4,1,3
+2015,KY,Interdisciplinary Health Sci,200,40,160
+2015,KY,Kinesiology,547,227,320
+2015,KY,"Recreation, Sport, and Tourism",265,189,76
+2015,KY,Speech & Hearing Science,286,13,273
+2015,LL,Social Work,218,22,196
