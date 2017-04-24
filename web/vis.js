@@ -91,7 +91,7 @@ var visualize = function(data) {
      .on("mouseover", tip.show)
      .on("mouseout", tip.hide)
      .attr("r", function (d) {
-        return 4;
+        return 6;
       })
      .attr("cx",function (d) {
       return enrollmentScale(Math.max(Math.min(d['TotalIncrPer']*100,400), -70));
@@ -100,7 +100,13 @@ var visualize = function(data) {
       return majorScale(d['Major'])+10;
      }) // center x pixel
      .attr("fill", function (d) {
-      return "purple"
+         console.log(d);
+         if (d.FemaleIncrPer > d.MaleIncrPer) {
+             return "purple";
+         } else {
+             return "#3f51b5";
+         }
      })
+     .attr("opacity", .7)
      ;
 };
