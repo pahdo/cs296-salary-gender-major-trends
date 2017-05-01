@@ -30,7 +30,7 @@ var visualize = function(data) {
 
   // == BOILERPLATE ==
   var margin = { top: 50, right: 50, bottom: 50, left: 50 },
-     width = 920 - margin.left - margin.right,
+     width = 1020 - margin.left - margin.right,
      height = (data.length * 20);
 
   var svg = d3.select("#chart")
@@ -50,6 +50,8 @@ var visualize = function(data) {
   majorNames = _.uniq(majorNames);
 
   var enrollmentIncPer = _.map(data, "TotalIncrPer");
+  var enrollmentSize = _.map(data, "Total2015");
+    console.log(enrollmentSize);
   var salary = _.map(data, "Salary75");
 
 
@@ -58,7 +60,12 @@ var visualize = function(data) {
   console.log(d3.min(enrollmentIncPer));
   var enrollmentScale = d3.scaleLinear()
                     .domain( [-70, 400] )
-                    .range( [150, width-120] );
+                    .range( [150, width-220] );
+
+  var enrollmentSizeScale = d3.scaleLinear()
+                    .domain([132, 1333])
+                    .range( [8, 20] );
+    console.log(enrollmentSizeScale);
 
   var majorScale = d3.scaleBand()
                     .domain( majorNames )
@@ -115,8 +122,8 @@ var visualize = function(data) {
   .attr('x', legendRectSize + legendSpacing)
   .attr('y', legendRectSize - legendSpacing)
   .text(function(d) {
-    if (d == 1) return 'LargerFemaleGrowth';
-    return 'LargerMaleGrowth';
+    if (d == 1) return 'Increasing Female Enrollment';
+    return 'Increasing Male Enrollment';
   });
 
   svg.selectAll("circles")
@@ -126,7 +133,8 @@ var visualize = function(data) {
      .on("mouseover", tip.show)
      .on("mouseout", tip.hide)
      .attr("r", function (d) {
-        return 6;
+         console.log(d["Total2015"]);
+        return enrollmentSizeScale(d["Total2015"]);
       })
      .attr("cx",function (d) {
       return enrollmentScale(Math.max(Math.min(d['TotalIncrPer']*100,400), -70));
