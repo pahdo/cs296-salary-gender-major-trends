@@ -30,7 +30,7 @@ var visualize = function(data) {
 
   // == BOILERPLATE ==
   var margin = { top: 50, right: 50, bottom: 50, left: 50 },
-     width = 900 - margin.left - margin.right,
+     width = 920 - margin.left - margin.right,
      height = (data.length * 20);
 
   var svg = d3.select("#chart")
@@ -58,7 +58,7 @@ var visualize = function(data) {
   console.log(d3.min(enrollmentIncPer));
   var enrollmentScale = d3.scaleLinear()
                     .domain( [-70, 400] )
-                    .range( [150, width-100] );
+                    .range( [150, width-120] );
 
   var majorScale = d3.scaleBand()
                     .domain( majorNames )
@@ -115,8 +115,8 @@ var visualize = function(data) {
   .attr('x', legendRectSize + legendSpacing)
   .attr('y', legendRectSize - legendSpacing)
   .text(function(d) {
-    if (d == 1) return 'FemaleGrowth';
-    return 'MaleGrowth';
+    if (d == 1) return 'LargerFemaleGrowth';
+    return 'LargerMaleGrowth';
   });
 
   svg.selectAll("circles")
